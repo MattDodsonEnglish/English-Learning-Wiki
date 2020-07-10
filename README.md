@@ -14,7 +14,7 @@ classroom or in real life.
 
 
 ## Table of Contents
-* [**Preliminary**](https://github.com/MattDodsonEnglish/English-Learning-Wiki/edit/master/README.md#Preliminary)
+* [**Preliminary**](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/README.md#preliminary)
   * **How do we use Language**
   * **Qualities of a Good Student**
 * **Grammar**
