@@ -33,3 +33,7 @@ classroom or in real life.
    * Listening
 
 ## Preliminary
+
+### How do we Use Language
+
+### Qualities of a Good Student
