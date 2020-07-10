@@ -15,7 +15,7 @@ classroom or in real life.
 
 ## Table of Contents
 * [**Preliminary**](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/README.md#preliminary)
-  * **How do we use Language**
+  * **How do We Use Language?**
   * **Qualities of a Good Student**
 * **Grammar**
    * Do I need Grammar?
@@ -34,6 +34,6 @@ classroom or in real life.
 
 ## Preliminary
 
-### How do we Use Language
+### How do we Use Language?
 
 ### Qualities of a Good Student
