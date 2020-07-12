@@ -142,15 +142,20 @@ quality of a good student. These items are:
 
 * **Ownership of their Learning.** This combines all of the above. You must
     care about learning. No teacher or no amount of classes can make you care.
-    Why should a teacher care more about how you use a language than you do? A
-    dirty secret of teaching is that the best students don't need a teacher and
-    the worst students will never learn. 
+    Why should a teacher care more about how you use a language than you do? A dirty secret of teaching is that the good students don't need a teacher and
+    the bad students won't learn anyway. 
     
-    My joy of teaching comes from two things. 1) Teaching good students (who
-    really don't need me) 2)
-    Helping a bad student realize how to be a good one (so they really won't
-    need me). 
-      
+    My joy of teaching, which is not inconsiderable, comes from two things. 1) Teaching
+    good students (who really don't need me) 2) Helping bad students realize how to be a good ones
+    (so they really won't need me). 
+
+    Am I saying teachers are useless? No, obviously no. However, we
+    must understand a teacher's function. All a teacher can do is show a student
+    the path. A good
+    teacher shows the path very clearly. An exceptional teacher inspires the how
+    a student walks down a certain path.
+  
+
   ===============
   
   I speak a foreign language, I work with people learning foreign languages. People who achieve mastery fall into two
