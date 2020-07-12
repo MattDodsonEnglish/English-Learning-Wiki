@@ -72,8 +72,8 @@ set of imaginary consequences in an imaginary past world. Nevertheless,
 something sucks about it, doesn't it? Where's the "highly specialized vocabulary?"
 
 My "highly specialized vocabulary" is vague and not really
-specialized at all. Actually it seems like a load of bullshit. This is because 
-I am not a programmer, and **my own
+specialized at all. Actually it's not even vague; it's just a load of bullshit.
+This is because I am not a programmer, and **my own
 language is not adequate to describe a software infrastructure problem.** Indeed,
 there are probably many people in the real world who don't speak any English yet
 can likely understand concepts that are signified by the English words in a
@@ -134,8 +134,8 @@ quality of a good student. These items are:
   foreign language, and they guard it like a secret. Well, people are shy
   in all languages! Realize a
   mistake is not the end of the world. Someone who really cares about the
-  trivial language mistakes of others is also someone who is extremely unlikely
-  to be intersting to communicate with. Other people may not be shy
+  trivial language mistakes of others is in all likelihood someone who 
+  should be avoided whenever possible. Other people may not be shy
   but they can't access a community or
   teacher. One suggestion is to participate in online discussions about topics
   that interest them.
@@ -158,7 +158,8 @@ quality of a good student. These items are:
 
   ===============
   
-  I speak a foreign language, I work with people learning foreign languages. People who achieve mastery fall into two
+  I speak a foreign language, I work with people learning foreign languages.
+  People who achieve mastery fall into two
   categories. 1) Fortunate sons and daughters,i.e. people who went to bilingual
   schools or grew up in bilingual environments 2) Good students, who have the
   properties above
