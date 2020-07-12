@@ -152,8 +152,8 @@ quality of a good student. These items are:
     Am I saying teachers are useless? No, obviously no. However, we
     must understand a teacher's function. All a teacher can do is show a student
     the path. A good
-    teacher shows the path very clearly. An exceptional teacher inspires the how
-    a student walks down a certain path.
+    teacher shows the path very clearly. An exceptional teacher inspires the
+    way a student thinks about a certain path.
   
 
   ===============
