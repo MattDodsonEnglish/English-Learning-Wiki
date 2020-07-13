@@ -72,8 +72,8 @@ set of imaginary consequences in an imaginary past world. Nevertheless,
 something sucks about it, doesn't it? Where's the "highly specialized vocabulary?"
 
 My "highly specialized vocabulary" is vague and not really
-specialized at all. Actually it seems like a load of bullshit. This is because 
-I am not a programmer, and **my own
+specialized at all. Actually it's not even vague; it's just a load of bullshit.
+This is because I am not a programmer, and **my own
 language is not adequate to describe a software infrastructure problem.** Indeed,
 there are probably many people in the real world who don't speak any English yet
 can likely understand concepts that are signified by the English words in a
@@ -154,8 +154,8 @@ quality of a good student. These items are:
     Am I saying teachers are useless? No, obviously no. However, we
     must understand a teacher's function. All a teacher can do is show a student
     the path. A good
-    teacher shows the path very clearly. An exceptional teacher inspires how
-    a student walks down a certain path.
+    teacher shows the path very clearly. An exceptional teacher inspires the
+    way a student thinks about a certain path.
   
 
 ### Summing Up  
@@ -163,12 +163,14 @@ quality of a good student. These items are:
   who speak English as a foreign languages, many of whom are not only learning
   the language, but using it daily in personal and professional contexts.
   
-  Any one who has learned a language has experienced the sensation of running
-  into some limitation in their powers of expression or comprehension. People
-  who achieve mastery in a second language are people who have mastered the
-  ability to talk about all things at all times.
+  Any one who has learned a language has experienced moments
+  of complete inability to express or to comprehend. People
+  who achieve mastery in a second language have likely experienced many of these
+  moments, and made efforts to avoid repeating them. This process of improvement
+  is how they became masters, ultimately gaining the power
+  to discuss all things at all times in their second language.
   
-  I have seen people master their foriegn language (both English and my L2).
+  I know people who have mastered their foriegn language (both English and my L2).
   People who achieve mastery invariably fall into two categories.
   1. Fortunate sons and daughters,i.e. people who went to bilingual
   schools or grew up in bilingual environments 
