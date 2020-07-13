@@ -159,9 +159,10 @@ quality of a good student. These items are:
   
 
 ### Summing Up  
-  I speak a foreign language and I use it every day. I also work with people
-  who speak English as a foreign languages, many of whom are not only learning
-  the language, but using it daily in personal and professional contexts.
+  I speak a foreign language and I use it every day. I also work
+  with people who English as their foreign language every day. And
+  many of them are not just students, but people who use the language 
+  daily in their personal and professional live.
   
   Any one who has learned a language has experienced moments
   of complete inability to express or to comprehend. People
