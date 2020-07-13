@@ -79,7 +79,7 @@ there are probably many people in the real world who don't speak any English yet
 can likely understand concepts that are signified by the English words in a
 software library (eg "Array" or "null pointer") far better than I can. Is this
 because they speak English better than me, a native speaker and writer of an
-English wiki?  Yes, exactly! The do speak English better than me--at least in
+English wiki?  Yes, exactly! They do speak English better than me--at least in
 the context of the narrow domain described by the words in the software library.
 
 **Your language skills are only as good as what you can do with them.**
