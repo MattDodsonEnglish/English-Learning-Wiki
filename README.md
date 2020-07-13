@@ -79,7 +79,7 @@ there are probably many people in the real world who don't speak any English yet
 can likely understand concepts that are signified by the English words in a
 software library (eg "Array" or "null pointer") far better than I can. Is this
 because they speak English better than me, a native speaker and writer of an
-English wiki?  Yes, exactly! They do speak English better than me--at least in
+English wiki?  Yes, exactly! They do speak English better than me─at least in
 the context of the narrow domain described by the words in the software library.
 
 **Your language skills are only as good as what you can do with them.**
@@ -93,19 +93,23 @@ not age, and it's not some mysterious language talent. Look, obviously some
 people are better at learning some things than others. But talent is not the
 quality of a good student. These items are:
 
-* **Intention.** Good students speak with intention, and they practice things
+#### **Intention.** 
+
+Good students speak with intention, and they practice things
   they have learned with intention. When they learn a new word they try to use
   it. When they learn a new grammar structure, they consciously try to use it.
   When they hear about a mistake they made, they actively try to fix it. This
   intention, also called "giving a fuck," is the most important quality of a
   good student. 
 
-* **Study of Real Uses of the Language.** You are not going to master a language
+#### **Study of Real Uses of the Language.** 
+
+  You are not going to master a language
   with pure passive study, but good students pay attention. They read, they
   listen to movies, they hear how native speakers talk and try to understand
   why they spoke the way they spoke.
 
-* **Long-term Perspective.**
+#### **Long-term Perspective.**
   I've seen so many students say they're going to go
   on a "crash course." They buy books, buy classes, study multiple hours a day,
   and quit quickly. After this initial heave, some students become more
@@ -118,11 +122,16 @@ quality of a good student. These items are:
   that a few weeks of effort will extricate you from a process that takes most
   people years is simply a pernicious form of laziness. 
 
-* **Practice in Real Environments** Language is useful only if serves a
-  community of speakers. Here's quiz. Which of the following is not part of a
-  community of speakers? 
-   `1) Your mother in law. 2. A troll on a forum. 4. Your boss. 3. a reader of a
-       CLI utility you wrote 5. A language exam.`
+#### **Practice in Real Environments** 
+  Language is useful only if it serves a
+  community of speakers. Here's quiz. Which of the following is not part of a community of speakers? 
+   
+    1. Your mother in law.
+    2. A troll on a forum. 
+    3. a reader of a CLI utility you wrote
+    4. Your boss.
+    5. A language exam.
+  
   
   I don't care that about your grade on a language exam. I suppose I should,
   because people pay me to care about their language, but I don't, and 
@@ -135,34 +144,31 @@ quality of a good student. These items are:
   in all languages! Realize a
   mistake is not the end of the world. Someone who really cares about the
   trivial language mistakes of others is in all likelihood someone who should be
-  avoided in all social situations. Other people may not be shy
-  but have no access a community or
+  avoided whenever possible. Other people may not be shy
+  but have no access to a community or
   teacher. Fortunately anyone with internet access also has access to an
   enormous quantity of interesting material in their target language (real
   material not grammar books). They can also participate in online discussions
   about topics that interest them.
 
-* **Ownership of their Learning.** This combines all of the above. You must
-    care about learning. No teacher or no amount of classes can make you care.
-    Why should a teacher care more about how you use a language than you do? A dirty secret of teaching is that the good students don't need a teacher and
-    the bad students won't learn anyway. 
+#### **Ownership of their Learning.** 
+  This combines all of the above. You must
+   care about learning. No amount of teaching or any number of classes can make you care. Why should a teacher care more about how you use a language than you do? A dirty secret of teaching is that the good students don't need a teacher and
+   the bad students won't learn anyway. 
     
-    My joy of teaching, which is not inconsiderable, comes from two things. 1) Teaching
-    good students (who really don't need me) 2) Helping bad students realize how to be a good ones
-    (so they really won't need me). 
+  My joy of teaching, which is not inconsiderable, comes from two things. 1)
+  Teaching good students (who really don't need me) 2) Helping bad students
+  realize how to be a good ones (so they really won't need me). 
 
-    Am I saying teachers are useless? No, obviously no. However, we
-    must understand a teacher's function. All a teacher can do is show a student
-    the path. A good
-    teacher shows the path very clearly. An exceptional teacher inspires the
-    way a student thinks about a certain path.
+  Am I saying teachers are useless? No, obviously no.However, we
+  must understand a teacher's function. All a teacher can do is show a student the path. A good teacher shows the path very clearly. An exceptional teacher inspires the way a student thinks about a certain path.
   
 
 ### Summing Up  
   I speak a foreign language and I use it every day. I also work
-  with people who English as their foreign language every day. And
+  with people who use English as their foreign language every day. And
   many of them are not just students, but people who use the language 
-  daily in their personal and professional live.
+  daily in their personal and professional lives.
   
   Any one who has learned a language has experienced moments
   of complete inability to express or to comprehend. People
@@ -171,9 +177,9 @@ quality of a good student. These items are:
   is how they became masters, ultimately gaining the power
   to discuss all things at all times in their second language.
   
-  I know people who have mastered their foriegn language (both English and my L2).
-  People who achieve mastery invariably fall into two categories.
+  I have never met a person who achieved mastery of a second language that did
+  not fall into one of these two categories:
   1. Fortunate sons and daughters,i.e. people who went to bilingual
-  schools or grew up in bilingual environments 
-  2. Good students, who by definition have the properties of good students I
-     listed above.
+  schools or grew up in bilingual environments. 
+  2. Good students, who by definition have all or at least most of the
+     properties of good students I listed above.
