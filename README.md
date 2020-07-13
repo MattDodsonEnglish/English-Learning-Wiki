@@ -134,11 +134,13 @@ quality of a good student. These items are:
   foreign language, and they guard it like a secret. Well, people are shy
   in all languages! Realize a
   mistake is not the end of the world. Someone who really cares about the
-  trivial language mistakes of others is also someone who is extremely unlikely
-  to be intersting to communicate with. Other people may not be shy
-  but they can't access a community or
-  teacher. One suggestion is to participate in online discussions about topics
-  that interest them.
+  trivial language mistakes of others is in all likelihood someone who should be
+  avoided in all social situations. Other people may not be shy
+  but have no access a community or
+  teacher. Fortunately anyone with internet access also has access to an
+  enormous quantity of interesting material in their target language (real
+  material not grammar books). They can also participate in online discussions
+  about topics that interest them.
 
 * **Ownership of their Learning.** This combines all of the above. You must
     care about learning. No teacher or no amount of classes can make you care.
@@ -152,13 +154,23 @@ quality of a good student. These items are:
     Am I saying teachers are useless? No, obviously no. However, we
     must understand a teacher's function. All a teacher can do is show a student
     the path. A good
-    teacher shows the path very clearly. An exceptional teacher inspires the how
+    teacher shows the path very clearly. An exceptional teacher inspires how
     a student walks down a certain path.
   
 
-  ===============
+### Summing Up  
+  I speak a foreign language and I use it every day. I also work with people
+  who speak English as a foreign languages, many of whom are not only learning
+  the language, but using it daily in personal and professional contexts.
   
-  I speak a foreign language, I work with people learning foreign languages. People who achieve mastery fall into two
-  categories. 1) Fortunate sons and daughters,i.e. people who went to bilingual
-  schools or grew up in bilingual environments 2) Good students, who have the
-  properties above
+  Any one who has learned a language has experienced the sensation of running
+  into some limitation in their powers of expression or comprehension. People
+  who achieve mastery in a second language are people who have mastered the
+  ability to talk about all things at all times.
+  
+  I have seen people master their foriegn language (both English and my L2).
+  People who achieve mastery invariably fall into two categories.
+  1. Fortunate sons and daughters,i.e. people who went to bilingual
+  schools or grew up in bilingual environments 
+  2. Good students, who by definition have the properties of good students I
+     listed above.
