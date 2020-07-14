@@ -7,7 +7,7 @@ software sphere. However, I hope that anyone who is trying to improve their
 English--even natives-- may find some benefit. 
 
 
-My emphasis is on practical applications of the langage. Wherever possible, I
+My emphasis is on practical applications of the language. Wherever possible, I
 will use examples from the real world, and examine mistakes that I saw in the
 classroom or in real life.
 
