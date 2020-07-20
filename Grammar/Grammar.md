@@ -24,13 +24,13 @@ language.<sup>Disclaimer</sup>**
 
 _Disclaimer:_ Of course, grammar is just one part of a human language. Mastering
 the entire range of a foreign language is probably harder than mastering a coding
-language, or at least equally as hard.
+language, or at least equally as hard. I don't know, I haven't done either.
 
 # Verbs 
 
 The verb is the most important part of an English sentence. A verb is the primary
 place where a sentence's grammar happens, and it is the part of speech most
-sensitive to change. For example, what how the verb transforms when I modify
+sensitive to change. For example, watch how the verb transforms when I modify
 some part of the first sentence of this paragraph.
 
 >The verb **is** the most important part of an English sentence.
@@ -42,8 +42,8 @@ some part of the first sentence of this paragraph.
 >_I would care about this wiki more, if_ the verb **were** the most important part
 >of an english sentence.
 
-Notice how changes in the subjects number, in the sentence tense, and in the
-sentence's level of reality all depend on transformations around the verb.
+Notice how changes in the subject's number, in sentence's tense, and expressions's
+level of reality all depend on transformations around the verb.
 
 English verb structures have three primary components, tense, aspect, and mood.
 Very often these components can be combined together to create increasingly
@@ -57,9 +57,9 @@ now, like "my friend is frying some potatoes", a moment happening around now, "I
 am learning Haskell right now (for great good)". Complicated enough, but actually, the present can
 also refer to finished actions, like "hear" in "I hear you are getting married"
 or have in "I have heard that already" (yes, the latter is present), and it can
-even refer to future events like "fly" in "I will go when pigs fly." Oh no, what
+even refer to unlikely future events like "fly" in "I will go when pigs fly." Oh no, what
 if the past and future tenses have equal amounts of complication? They do (maybe
-more.
+more).
 
 To a learner, these structures, especially the
 more complex ones, seem daunting at first.  However they become much more manageable when we realize they stick together like modules.
@@ -75,19 +75,19 @@ The continuous is an aspect, and this is an example of a sentence in the past
 tense that has a continuous aspect "We were working last night.". Mood, or modality, is a
 little harder to pin down. A sentence's mood reflects the speakers attitude
 toward its contents. So, mood may reflect emotion, probability, or imagination.
-Mood may also reflect the speaker's intention with the sentence, like make a
-demand or ask a question. The interrogative is a mood, and this is an example of
+Mood may also reflect the speaker's intention with the sentence, like making a
+demand or asking a question. The interrogative is a mood, and this is an example of
 a sentence in the past tense that has a continuous aspect and is in the
 interrogative mood, "Were you working last night?". The conditional is also a
 mood, and this is an an example of a sentence in the past tense that has a
 continuous aspect and is in the conditional and interrogative moods. "Would you
-have been working last night?"  
-
-The imperative is also mood, and there is no example of an imperative in the past tense. So that's one less
+have been working last night?" The imperative is also a mood, and there is no 
+example of an imperative in the past tense. So that's one less
 to learn. 
 
 
-The following section tries to fit all these tenses and moods together. It will have repetitive examples. This is intentional. With
+The following section tries to fit all these tenses and moods together. It 
+will have repetitive examples. This is intentional. With
 the repetitions I would like to emphasize that each verb "module" is just a
 component that can be stuck together with other components.
 
@@ -95,9 +95,9 @@ component that can be stuck together with other components.
 
 Tense refers to the time when the action of a sentence takes place. In English
 we have three tenses: the present, the past, and the future.  Actually,
-Linguists usually say English has only two tenses, because they don't consider
-the English future to really be tense. This is a fascinating point of discussion
-topic, but not relevant to the task of this wiki.
+linguists usually say English has only two tenses, because they don't consider
+the English future to really be a tense. This is a fascinating point of discussion
+, but not relevant to the task of this wiki.
 
 ### Present
 
@@ -109,9 +109,13 @@ It's where we live. You probably have heard of the present tense.
 The basic form is called the Present simple. The present simple describes, the habitual, the
 abstract, and the generally true.
 
->He thinks about you all the time.
+> He thinks about you all the time.
 > Now I *work* down in the car yard, where all *it ever does* *is* rain.
 > A human is a featherless biped.
+
+It also describes states:
+
+>The system is down.
 
 Common errors include:
 * Using the present continuous where it shouldn't be.
@@ -121,5 +125,6 @@ Common errors include:
 
 #### Present + continuous aspect
 
-The continuous is always marked by *a form of the verb to be followed by a present participle (-ing)*
+The continuous is always marked by *a form of the verb to be followed by a present participle (-ing)*. It describes sentences happening _now or around now._
 
+> The system is down, but "Gennady *is working* on it."
