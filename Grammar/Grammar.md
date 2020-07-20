@@ -2,7 +2,7 @@
 
 Grammar is the set of rules governing how we speak a language. 
 
-* [Do I need to learn Grammar?](./Do-I-Need-Grammar?.md)
+* [Do I need to learn Grammar?](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/Grammar/Do-I-Need-Grammar%3F.md)
 * [Verbs](#Verbs)
     * Tenses
     * Aspect
@@ -33,13 +33,13 @@ place where a sentence's grammar happens, and it is the part of speech most
 sensitive to change. For example, what how the verb transforms when I modify
 some part of the first sentence of this paragraph.
 
->The verb is the most important part of an English sentence.
+>The verb **is** the most important part of an English sentence.
 
 >The verb*s* **are** the most important part of an English sentence.
 
->He said that the verb **was* the most important part of the English sentence.
+>_He said that_ the verb **was** the most important part of the English sentence.
 
->I would care about this wiki more, if the verb **were** the most important part
+>_I would care about this wiki more, if_ the verb **were** the most important part
 >of an english sentence.
 
 Notice how changes in the subjects number, in the sentence tense, and in the
