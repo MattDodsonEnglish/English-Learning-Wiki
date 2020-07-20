@@ -15,7 +15,7 @@ First let's address the old-school notion that "Grammar is King." I think anyone
 with a brain will realize that grammar can only get you so far. What happened to
 the hundreds of thousands of people who studied a language for ten years only
 to arrive in the country of their L2 and find their powers of expression
-rudimentary at best? Did they not do perform enough grammar exercises Secondly
+rudimentary at best? Did they not perform enough grammar exercises? Secondly
 how do you even practice actually using grammar without making mistakes along
 the way? Doing rote grammar exercises is not real practice. **Creating**
 original sentences that use a grammar structure is real practice. In my
@@ -36,15 +36,17 @@ I think the language institutions of the world have broadly realized the
 weakness of the Grammar-only approach. However,the idea that we should
 completely avoid learning any grammar is nearly as ridiculous. But that's "just
 how kids learn." My teacher Phil once made a good point: kids take 5-7 years to
-master a language, adults usually don't have that amount of time. Learning
+master a language, adults usually don't have that amount of time*. Learning
 grammar almost certainly accelerates the learning process. Just knowing the
 structure provides you a scaffolding to create sentences using any word you
 know. Secondly, certain expressions, like a past hypothetical, require a certain
-level of grammatical sophistication that is very difficult to learn through
+level of grammatical sophistication that is very difficult, and more importantly, _pointlessly difficult_, to learn through
 sheer intuition. Lastly, many of you are working or will work in contexts where you will need
 to
 communicate in writing, and do so as clearly as possible. When you say something
 like "He don't," your listener forgets the error as soon as the sentence ends.
 When you write something like "he don't", your users will read the error everytime they open the manual, and in
 time they may grow to distrust, or even despise, you. Furthermore, unlike the air control
-tower, your reader can't ask you to "Say again". So, aim to be perfect.   
+tower, your reader can't ask you to "Say again". So, aim to be perfect the first and only time.
+
+*[Phil has a lot of interesting things to say](https://www.italki.com/user/1356999).
