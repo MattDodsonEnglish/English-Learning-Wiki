@@ -46,7 +46,7 @@ some part of the first sentence of this paragraph.
 >_I would care about this wiki more, if_ the verb **were** the most important part
 >of an english sentence.
 
-Notice how changes in the subject's number, in sentence's tense, and expressions's
+Notice how changes in the subject's number, in sentence's tense, and the expression's
 level of reality all depend on transformations around the verb.
 
 English verb structures have three primary components, tense, aspect, and mood.
@@ -60,7 +60,7 @@ general truth, like "Haskell is a functional language", a moment happening right
 now, like "my friend is frying some potatoes", a moment happening around now, "I
 am learning Haskell right now (for great good)". Complicated enough, but actually, the present can
 also refer to finished actions, like "hear" in "I hear you are getting married"
-or have in "I have heard that already" (yes, the latter is present), and it can
+or have in "I have heard that already" (yes, [the latter is present](#common-errors-2)), and it can
 even refer to unlikely future events like "fly" in "I will go when pigs fly." Oh no, what
 if the past and future tenses have equal amounts of complication? They do (maybe
 more).
@@ -139,7 +139,7 @@ It also describes states:
 
 >The system is down.
 
-##### Common errors:
+##### Common Errors:
 * Using the present continuous where it shouldn't be.
 > My daughter ~is listening~ **listens** to music all the time
 * Basic conjugation problems
@@ -165,8 +165,6 @@ simple is used for that.
 -Bees are making honey.
 +Bees make honey
 ```
-Bees ~are making~ **make** honey.
-
 _Unless some bees are making honey right now. But there should be some 
 determiner, like 'the' or 'some' in that case._
 
@@ -257,4 +255,28 @@ Why would you use a present tense when speaking about yesterday? To repeat, **Th
 
 #### Present Perfect Continuous
 
-The perfect 
+```Form
+. S + Have/has + been + -ing
+  She   has       been   eating
+? Have/has + S + been + ing
+  Has        she been   eating
+  ```
+
+The [perfect](#perfect) in English describes events linked to some later time.
+The [continuous](#continuous) describes events that did not finish. So it
+follows that the **perfect continuous describes events that did not finish and
+are linked to some later time**.
+
+In the **present** perfect continuous, the events link to the present.
+
+>Ever since we changed providers, the pages have been loading much faster.
+
+_The loading of the pages is a continuous process, beginning at the time we
+changed providers and continuing to now. _
+
+
+### Past
+#### Past Simple
+#### Past Continuous
+#### Past Perfect
+#### Perfect Past Continuous
