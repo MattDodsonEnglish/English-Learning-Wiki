@@ -166,6 +166,7 @@ simple is used for that.
 +Bees make honey
 ```
 Bees ~are making~ **make** honey.
+
 _Unless some bees are making honey right now. But there should be some 
 determiner, like 'the' or 'some' in that case._
 
