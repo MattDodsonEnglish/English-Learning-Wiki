@@ -105,7 +105,13 @@ component that can be stuck together with other components.
 I'm going to start with aspect and mood, then return to finish with an
 exhaustive demonstration of how aspects and moods work in each tense.
 
+## Aspect
 
+### Perfect
+
+### Continuous
+
+## Mood
 
 ## Tense
 
@@ -159,7 +165,7 @@ simple is used for that.
 -Bees are making honey.
 +Bees make honey
 ```
-
+Bees ~are making~ **make** honey.
 _Unless some bees are making honey right now. But there should be some 
 determiner, like 'the' or 'some' in that case._
 
@@ -251,11 +257,3 @@ Why would you use a present tense when speaking about yesterday? To repeat, **Th
 #### Present Perfect Continuous
 
 The perfect 
-
-## Aspect
-
-#
-
-### Perfect
-
-### Continuous
