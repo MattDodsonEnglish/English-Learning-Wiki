@@ -10,9 +10,11 @@ Grammar is the set of rules governing how we speak a language.
 
 # Do I need to learn Grammar?
 
-**Short answer**, yes it it makes things a lot easier. Yet I think it's self-evident
-that ability to communicate the aim of learning a language, and honestly people
-do learn to communicate without learning a grammar. Intuition can only carry a
+**Short answer**, yes it it makes things a lot easier. However, I think it's self-evident
+communication is the central aim of learning a language, and honestly many people
+have learned to speak and understand an L2 without any understanding of the language's grammar. 
+
+Yet, intuition can only carry a
 person so far; after a
 certain point, you will need to master the grammar to master the language.
 Any way, no matter your level, learning how to wisely apply grammatical structures can only help your
