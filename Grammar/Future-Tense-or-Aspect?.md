@@ -57,7 +57,7 @@ So we have the future perfect progressive in the only two tenses possible.
 1. **The present**:
 When you get here, I will have been working for hours and I doubt I'll have any more energy.
 2. **The past**:
-I thought that when you got here, I would have been working for  horse.
+I thought that when you got here, I would have been working for hours.
 
 That's a real instance of the future perfect progressive. But the future-perfect construction is so crazy that it's typically only used to speak about counterfactual historical events:
 
