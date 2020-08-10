@@ -107,11 +107,85 @@ exhaustive demonstration of how aspects and moods work in each tense.
 
 ## Aspect
 
+Aspect reflects a verb's composition in time. It determines whether the action
+is complete or ongoing. In English, the two main aspects are the perfect, which
+describes an events relation to another, and the continuous which describes an
+events ongoing action. There are really three common aspects, if you consider
+the [future](./Future-Tense-or-Aspect?.md).
+
+There is also the habitual aspect, which describes regular events. The most
+habitual constructions are used to and would ("we *used to deploy* on Friday
+evenings, which *would always make* me nervous.")
+
+Like lego blocks, aspects can be grouped together to create more complex
+constructions. Future, perfect, and continuous always can be combined together.
+As far as I know the habitual can only be combined with the continuous.
+
+
+
 ### Perfect
+
+The perfect describes relationships between events. In the present tense, the
+perfect creates a relationship between a past event and the present. In the
+past, the perfect creates an between a past event and an even earlier event. In
+the future, the perfect creates a relationship between a future event and an
+earlier event, which may be an earlier future event, a present event, or a past event.
+
+In non-continuous constructions, it can also be used to emphasize the
+completion of the action.
+
+It is constructed with "have" followed by the past participle of the following verb.
 
 ### Continuous
 
-## Mood
+The continous describes ongoing activity. It emphasizes the _action_ of a verb.
+
+It is constucted with the verb to be followed by the present participle of the
+following verb.
+
+### Habitual
+
+The habitual describes the events that repeated in periods of time. There are
+two principal constructions of the habitual: "used to" + verb and "would+verb"
+
+They are mostly interchangeable, but only used to can be used for states, like
+living.
+
+Both of these are fine:
+
+> My uncles would watch cricket on sundays.
+> My aunts used to watch Football on thanksgiving.
+
+But only "used to" is correct here:
+
+```diff
+-I would live in New York city in the 1990s
++I used to live in New York city in the 1990s
+```
+
+Here is a graphic using cutting edge teaching software:
+
+
+There are other verb constructions that can describe habitual activities, like keep +ing
+
+>I keep forgetting how to log in.
+
+
+Frankly I didn't want to write about the habitual because it messes up my theory
+that all aspects can be combined, and that all aspects can have tenses. Yet "used to" and "would"(in this sense) can only be used in the past, and, as far as I can reckon, they can only be combined with the future. I think there are a few reasons. One, the habitual present is just the present simple. The other is that I think "used to" functions as something like a defective verb, and that all of these are forms of verbal peraphrasis. 
+
+
+### Future-Tense or Aspect?
+
+The future is not really a tense, but an aspect.  However, because this wiki is
+intended for quick, practical use. I'm going to group the future under the tense
+category.
+
+Yet, as I wrote this wiki, I became convinced that the distinction is not so
+trivial if you're really worried about grammar. If you are interested, I typed a
+small explanation of [why I think so](./Future-Tense-or-Aspect?.md) 
+
+## Mood 
 
 ## Tense
 
@@ -276,7 +350,19 @@ changed providers and continuing to now. _
 
 
 ### Past
+
+As you read this sentence, you are reading in the present. Now try to remember
+that last sentence you read. You were reading that sentence a few moments ago.
+It was a good time.
+
 #### Past Simple
+
 #### Past Continuous
 #### Past Perfect
 #### Perfect Past Continuous
+
+### Future
+#### Will and Going to
+#### Future Continuous
+#### Future Perfect
+#### Future Perfect Continuous
