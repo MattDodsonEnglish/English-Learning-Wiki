@@ -113,7 +113,7 @@ Aspect reflects a verb's composition in time. It determines whether the action
 is complete or ongoing. In English, the two main aspects are the perfect, which
 describes an events relation to another, and the continuous which describes an
 events ongoing action. There are really three common aspects, if you consider
-the [future](./Future-Tense-or-Aspect?.md).
+the [future](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/Grammar/Future-Tense-or-Aspect%3F.md).
 
 There is also the habitual aspect, which describes regular events. The most
 habitual constructions are used to and would ("we *used to deploy* on Friday
@@ -185,7 +185,7 @@ category.
 
 Yet, as I wrote this wiki, I became convinced that the distinction is not so
 trivial if you're really worried about grammar. If you are interested, I typed a
-small explanation of [why I think so](./Future-Tense-or-Aspect?.md) 
+small explanation of [why I think so](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/Grammar/Future-Tense-or-Aspect%3F.md) 
 
 ## Mood 
 
