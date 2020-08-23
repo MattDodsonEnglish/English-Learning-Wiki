@@ -4,9 +4,10 @@ Grammar is the set of rules governing how we speak a language.
 
 * [Do I need to learn Grammar?](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/Grammar/Do-I-Need-Grammar%3F.md)
 * [Verbs](#Verbs)
-    * Tenses
+    * [Tenses](#tenses)
     * Aspect
     * Mood
+ * [Conditionals](#Conditionals)
 
 # Do I need to learn Grammar?
 
@@ -359,6 +360,28 @@ It was a good time.
 
 #### Past Simple
 
+The past simple simple has multiple functions:
+
+* Finished actions
+> I went there yesterday.
+
+> Thomas Sankara was a great president.
+
+* Sequences in stories.
+
+> Last night thieves broke into my house. They broke the backdoor window to unlock the door. Then they stole my all my socks and left.
+
+* Introducing the condition in a hypothetical
+
+> If I were you ...
+
+The past simple is the workhorse of the past tense. If you are not sure about whether to use the past simple or some other form, like the present perfect or the habitual, it'll be safer to use the past simple. 
+
+##### Common errors
+* Mispronuncing (-ed forms)[https://7esl.com/pronunciation-of-ed/]
+* (Misconjugating (irregular forms)[https://grammar.cl/Past/Irregular_Verbs_List.htm]
+* Using the past simple when the [present](#present-perfect) or [past perfect](#past-perfect) would be better.
+ 
 #### Past Continuous
 #### Past Perfect
 #### Perfect Past Continuous
@@ -368,3 +391,5 @@ It was a good time.
 #### Future Continuous
 #### Future Perfect
 #### Future Perfect Continuous
+
+# Conditionals
