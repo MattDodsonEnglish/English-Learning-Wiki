@@ -4,10 +4,11 @@ Grammar is the set of rules governing how we speak a language.
 
 * [Do I need to learn Grammar?](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/Grammar/Do-I-Need-Grammar%3F.md)
 * [Verbs](#Verbs)
-    * [Tenses](#tenses)
-    * Aspect
-    * Mood
- * [Conditionals](#Conditionals)
+    * [TAM]
+        * Tense, Aspect, Mood
+        * Aspect
+        * Mood
+    * [Conditionals](#Conditionals)
 
 # Do I need to learn Grammar?
 
@@ -369,7 +370,7 @@ The past simple simple has multiple functions:
 
 * Sequences in stories.
 
-> Last night thieves broke into my house. They broke the backdoor window to unlock the door. Then they stole my all my socks and left.
+> Last night thieves broke into my when I was on vacation. They broke the backdoor window then unlocked the door. After they entered, they came into my bedroom, stole all my socks, and left.
 
 * Introducing the condition in a hypothetical
 
@@ -378,8 +379,8 @@ The past simple simple has multiple functions:
 The past simple is the workhorse of the past tense. If you are not sure about whether to use the past simple or some other form, like the present perfect or the habitual, it'll be safer to use the past simple. 
 
 ##### Common errors
-* Mispronuncing (-ed forms)[https://7esl.com/pronunciation-of-ed/]
-* (Misconjugating (irregular forms)[https://grammar.cl/Past/Irregular_Verbs_List.htm]
+* Mispronuncing [-ed forms](https://7esl.com/pronunciation-of-ed/)
+* Misconjugating [irregular forms](https://grammar.cl/Past/Irregular_Verbs_List.htm)
 * Using the past simple when the [present](#present-perfect) or [past perfect](#past-perfect) would be better.
  
 #### Past Continuous
