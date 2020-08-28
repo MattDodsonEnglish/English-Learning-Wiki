@@ -67,8 +67,8 @@ In fact many languages use the past tense to speak about the unreal.
 
 
 All other modals like 'might', 'shall'('should' in the past, and 'can'('could'
-in the past) also be in the present or the past tenses, but they can't be in the
-future to the future. Why? For two
+in the past) also have present and past tenses, but no
+future. Why? For two
 reasons: 
 1. Modals, like tenses, can't be combined*. Only aspects can be combined. 
 2. Because, most importantly...
