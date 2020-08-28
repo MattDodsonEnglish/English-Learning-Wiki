@@ -350,7 +350,7 @@ In the **present** perfect continuous, the events link to the present.
 >Ever since we changed providers, the pages have been loading much faster.
 
 _The loading of the pages is a continuous process, beginning at the time we
-changed providers and continuing to now. _
+changed providers and continuing to now._
 
 
 ### Past
@@ -385,7 +385,12 @@ The past simple is the workhorse of the past tense. If you are not sure about wh
  
 #### Past Continuous
 #### Past Perfect
+
+The perfect links events in time. The past tense refers to the past. Therefore, the past perfect therefore links an event in the past with an earlier event.
+
 #### Perfect Past Continuous
+
+The 
 
 ### Future
 #### Will and Going to
