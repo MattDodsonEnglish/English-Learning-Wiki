@@ -129,16 +129,39 @@ As far as I know the habitual can only be combined with the continuous.
 
 ### Perfect
 
-The perfect describes relationships between events. In the present tense, the
-perfect creates a relationship between a past event and the present. In the
-past, the perfect creates an between a past event and an even earlier event. In
-the future, the perfect creates a relationship between a future event and an
-earlier event, which may be an earlier future event, a present event, or a past event.
+The perfect describes relationships between events. 
+Necessarily it is going to
+involve two events in time: 
+1. An event occurring at a definite moment in time;	
+2. An event, occurring at an indefinite moment in time, that happened prior to
+event (1) and also informs event (1) in some way.
 
-In non-continuous constructions, it can also be used to emphasize the
-completion of the action.
+The verb describing event (2) is going to be in the perfect. 
+As long as event (2) occurs before event (1), any pairs in time are possible:
+past-later-past; past-present; past-future; present-future; later future-future.
+
+Take a look at the following three pictures. In each one, someone has eaten. 
+"i" stands for information. In this case it carries the information "a belly full
+of food". 
+
+
+![Present Perfect](../Images/presentperfect.jpg)
+
+![Past Perfect](../Images/Pastperfect.jpg)
+
+![Future Perfect](../Images/futureperfect.jpg)
+
+  
+The perfect signifies completion in many languages. I think it does
+in english too, except when the perfect continous happens.
 
 It is constructed with "have" followed by the past participle of the following verb.
+
+
+
+
+
+
 
 ### Continuous
 
