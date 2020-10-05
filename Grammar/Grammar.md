@@ -364,7 +364,7 @@ Why would you use a present tense when speaking about yesterday? To repeat, **Th
   ```
 
 The [perfect](#perfect) in English describes events linked to some later time.
-The [continuous](#continuous) describes events that did not finish. So it
+The [continuous](#continuous) emphasizes the activity of events. So it
 follows that the **perfect continuous describes events that did not finish and
 are linked to some later time**.
 
