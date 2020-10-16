@@ -16,7 +16,7 @@ classroom or in real life.
   * **How do We Use Language?**
   * **Qualities of a Good Student**
 * **[Grammar](./Grammar/Grammar.md)**
-* [Pronounciation](./Pronunciation)
+* [Pronunciation](./Pronunciation.md)
 * How do I practice English?
 * Useful Tools
 
