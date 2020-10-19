@@ -17,13 +17,13 @@ Students struggle with conditional sentences. There's no
 doubt they're tricky. However, when we break the conditional structure down into parts, we find
 there's a pretty simple logic to them.
 
-QUIZ: what comes first:
+QUIZ: what comes first?
 
-* a) If or b) then?
-* a) is or b) will be?
-* a) rain or b) wet street?
+* **If** or **then**?
+* **Is** or **will be**?
+* **rain** or **wet street**?
 
-Of course, the answer is always "a)". And this sequence reveals the structure
+Of course, the answer is always "the first". And this sequence reveals the structure
 of the conditional.
 
 > If it **rains**, the street **will be** wet.
