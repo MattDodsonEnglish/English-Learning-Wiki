@@ -8,7 +8,7 @@ Grammar is the set of rules governing how we speak a language.
         * Tense, Aspect, Mood
         * Aspect
         * Mood
-    * [Conditionals](#Conditionals)
+    * [Conditionals](./Conditionals.md)
 
 # Do I need to learn Grammar?
 
