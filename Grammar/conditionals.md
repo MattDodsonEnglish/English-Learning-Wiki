@@ -1,7 +1,5 @@
 # Conditionals
 
-![1st conditional](../Images/Conditional%201.png)
-
 ``` markdown
 Short Version: the grammar of conditional sentences coheres with their
 meaning. "If" comes before "then", so the tense of the "then" clause will be
@@ -35,7 +33,7 @@ The grammar of the conditional sentence coheres with its semantic meaning.
 "Then" comes after "if" so the tense of the then-clause is
 future to the tense of the if-clause.
 
-![](../Images/Conditional1.png)
+![](../Images/Conditional%201.png)
 -----
 
 Conditionals can be present or past, real or unreal. Except of the first example, I'm going
