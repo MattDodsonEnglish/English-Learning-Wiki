@@ -34,7 +34,7 @@ The grammar of the conditional sentence coheres with its semantic meaning.
 "Then" comes after "if" so the tense of the then-clause is
 future to the tense of the if-clause.
 
-![Type-1 conditional](../Images/Conditional1.png)
+![](../Images/Conditional1.png)
 -----
 
 Conditionals can be present or past, real or unreal. For my examples, I'm going
