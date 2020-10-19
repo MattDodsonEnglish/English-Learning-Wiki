@@ -10,9 +10,10 @@ To speak about the unreal past, apply the perfect aspect,
 -----
 A conditional sentence expresses what happens as a result of something else happening.
 They involve two events, the condition and its outcome, and have two clauses,
-the conditional (i.e. "if") and the consequence (i.e. then).
-Students struggle with conditional sentences. They can be tricky, there's no
-doubt. However, when we break the conditional structure down into parts, we find
+the conditional (i.e. "if") and the consequence (i.e. "then").
+
+Students struggle with conditional sentences. There's no
+doubt they're tricky. However, when we break the conditional structure down into parts, we find
 there's a pretty simple logic to them.
 
 QUIZ: what comes first:
