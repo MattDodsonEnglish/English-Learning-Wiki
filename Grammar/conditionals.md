@@ -43,9 +43,9 @@ the main clause.
 
 When we're speaking about the real, we can use conditional sentences to describe simultaneous events, sequential events, and past sequential events. The first two constructions (so-called type-0 and type-1 conditionals) are quite common, and you'll see them all the time. The last one much rarer, but I decided to include it.  
 
-### Simultaneaous events
+###  Simultaneous events
 
-0 conditionals describe simultaneaous events, so the "if" and "then" clauses are the same.
+0 conditionals describe simultaneous events, so the "if" and "then" clauses are the same.
 
 |moment|same moment|
 |-----|--------------|
