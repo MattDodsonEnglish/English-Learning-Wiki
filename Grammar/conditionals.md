@@ -1,6 +1,7 @@
 # Conditionals
 
-```**TL;DR**: Grammar coheres with meaning. "If" comes before "then", so if-clause
+```
+**TL;DR**: Grammar coheres with meaning. "If" comes before "then", so if-clause
 tenses are present and then-clause tenses are future, "If it rains, I'll be wet."
 When we want to speak about unreal present events, we move the clauses to 
 the past tense.  "If it rained on the moon, the moonmen would wet".
