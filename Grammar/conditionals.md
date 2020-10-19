@@ -43,7 +43,7 @@ the main clause.
 ## Real Situations
 
 When the conditional is _present and real_ put the if-clause in the present
-simple:
+simple, and the then-clause in the future:
 
 | Moment | Later Moment |
 |---------|-------|
@@ -51,8 +51,10 @@ simple:
 
 **NOTE:** Never say "if I will have..."! Just don't do it!
 
-How do we make this past? Simply move the tenses of the if-clause and then
-clauses to the past. So "have" becomes "had", and "won't be" becomes "wouldn't
+### Rare: Real past conditional 
+
+How do we give a real conditional past tense? Simply move the tenses of the if-clause and then-clauses
+to the past. So "have" becomes "had", and "won't be" becomes "wouldn't
 be". Yes, "would" is the past tense of "will" (really!)  
 
 |Past Moment | Later past moment |
@@ -65,8 +67,8 @@ be". Yes, "would" is the past tense of "will" (really!)
 * For past habitual conditionals, eg "When I was a kid I would take the train.
 In times when I alread had a ticket, I wouldn't rush.
 
-It's fairly uncommon to see these three example. But the structure is very
-common! That's because it also is used for unreal present conditionals.
+It's fairly uncommon to see these three examples. But the structure is very
+common! That's because it's also used for unreal present conditionals.
 
 ## Unreal Situations
 
@@ -82,11 +84,13 @@ in both the "if" and "then" clauses in the past tense.
 
 **Note:**  Never say "if I would." Just don't do it!
 
+### Unreal Past
+
 When the conditional is unreal and past, we move add the perfect aspect (eg had/would have) to the clauses.
 
 |past|later past|
 |----|-----------|
-|If my great-great-grandmother **had had** wheels| She **wouldz have been a bicycle|
+|If my great-great-grandmother **had had** wheels| She **would have been a bicycle|
 
 ## There's always an exception: 0-conditionals
 
