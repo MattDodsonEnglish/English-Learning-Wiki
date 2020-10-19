@@ -38,13 +38,22 @@ future to the tense of the if-clause.
 ![](../Images/Conditional1.png)
 -----
 
-Conditionals can be present or past, real or unreal. For my examples, I'm going
+Conditionals can be present or past, real or unreal. Except of the first example, I'm going
 to use "have" as the verb for the conditional clause and "be" as the verb for
 the main clause.  
 
 ## Real Situations
 
-[See O conditionals](#There's-always-an-exception)
+When we're speaking about the real, we can use conditional sentences to describe simultaneous events, sequential events, and past sequential events. The first two constructions (so-called type-0 and type-1 conditionals) are quite common, and you'll see them all the time. The last one much rarer, but I decided to include it.  
+
+### Simultaneaous events
+
+0 conditionals describe simultaneaous events, so the "if" and "then" clauses are the same.
+
+|present|also present|
+|-----|--------------|
+|when temperature increases,|pressure does too|
+|If you see a tall guy,|that's probably my cousin Pete.
 
 When the conditional is _present and real_, put the if-clause in the present
 simple and the then-clause in the future:
@@ -90,17 +99,10 @@ in both the "if" and "then" clauses in the past tense.
 
 ### Unreal Past
 
-When the conditional is unreal and past, we move add the perfect aspect (eg had/would have) to the clauses.
+When the conditional is _unreal and past_, we move add the perfect aspect (eg had/would have) to the clauses.
 
 |past|later past|
 |----|-----------|
 |If my great-great-grandmother **had had** wheels| She **would have been a bicycle|
 
-## There's always an exception: 0-conditionals
 
-0 conditionals describe simultaneaous events, so the "if" and "then" clauses are the same.
-
-|present|also present|
-|-----|--------------|
-|when temperature increases,|pressure does too|
-|If you see a tall guy,|that's probably my cousin Pete.
