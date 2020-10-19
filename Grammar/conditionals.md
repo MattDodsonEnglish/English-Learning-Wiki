@@ -48,10 +48,12 @@ When we're speaking about the real, we can use conditional sentences to describe
 
 0 conditionals describe simultaneaous events, so the "if" and "then" clauses are the same.
 
-|present|also present|
+|moment|same moment|
 |-----|--------------|
 |when temperature increases,|pressure does too|
 |If you see a tall guy,|that's probably my cousin Pete.
+
+### Sequential events
 
 When the conditional is _present and real_, put the if-clause in the present
 simple and the then-clause in the future:
@@ -85,6 +87,8 @@ common! That's because it's also used for unreal present conditionals.
 
 As in other languages, English often puts constructions in the past to add
 a layer of irreality.
+
+### Unreal Present
 
 When the condition is _unreal and present_, we mark that by putting the verbs
 in both the "if" and "then" clauses in the past tense.
