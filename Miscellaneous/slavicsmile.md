@@ -4,7 +4,8 @@ Here's a conversation I once had with a Russian friend:
 
 ```markdown
 Russian: Thanks)
-Matt: NP. Also, not sure if you know, but the smiley at the end of this sentence will not be recognized as a smiley by the average European/American)
+Matt: NP. Also, not sure if you know, but the smiley at the end of this sentence will not be
+recognized as a smiley by the average European/American)
 Russian: :scream:
 ```
 
