@@ -47,6 +47,6 @@ communicate in writing, and do so as clearly as possible. When you say something
 like "He don't," your listener forgets the error as soon as the sentence ends.
 When you write something like "he don't", your users will read the error everytime they open the manual, and in
 time they may grow to distrust, or even despise, you. Furthermore, unlike the air control
-tower, your reader can't ask you to "Say again". So, aim to be perfect the first and only time.
+tower, your reader can't ask you to "[Say again](https://en.wikipedia.org/wiki/Procedure_word#SAY_AGAIN)". So, aim to be perfect the first and only time.
 
 *[Phil has a lot of interesting things to say](https://www.italki.com/user/1356999).
