@@ -1,4 +1,4 @@
-# Russians, Don't Call the Wizard Garry Potter!
+# Russians, Don't Call that Wizard Garry Potter!
 
 It sounds absolutely ridiculous, because "Gary" is also a name. So when you say Gary Potter, it sounds like you're talking about some other "off-brand" wizard.
 
