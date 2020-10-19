@@ -1,13 +1,10 @@
 # Conditionals
 
-``` markdown
-Short Version: the grammar of conditional sentences coheres with their
-meaning. "If" comes before "then", so the tense of the "then" clause will be
-future of the "if" clause. EG "If it rains, then the street will be wet". This
-makes sense, as rain precedes a wet street, present precedes future, and "if"
-precedes "then." When we want to speak about unreal events, we move the clauses
-of present conditional to the past tense. "If it rained on the moon, the lunar
-street would be wet", and the clauses of past conditional to the perfect aspect,
+```**TL;DR**: Grammar coheres with meaning. "If" comes before "then", so if-clause
+tenses are present and then-clause tenses are future, "If it rains, I'll be wet."
+When we want to speak about unreal present events, we move the clauses to 
+the past tense.  "If it rained on the moon, the moonmen would wet".
+To speak about the unreal past, apply the perfect aspect,
 "if JFK had not been assinated, the 1960s would have been different".
 ```
 -----
