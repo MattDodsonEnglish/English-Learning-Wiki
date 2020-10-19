@@ -13,16 +13,18 @@ classroom or in real life.
 
 ## Table of Contents
 * [**Preliminary**](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/README.md#preliminary)
-  * **How do We Use Language?**
-  * **Qualities of a Good Student**
 * **[Grammar](./Grammar/Grammar.md)**
-* [Pronunciation](./Pronunciation.md)
+* **[Pronunciation]**(./Pronunciation.md)
 * How do I practice English?
 * Useful Tools
 
-## Preliminary
+# Preliminary
 
-### How do we Use Language?
+What does it mean to use language well? What does it mean to be a good student?
+
+These are two of the most important questions a language learner can ask themselves. I try to answer here.
+
+## How do we Use Language?
 
 If you can use a language to discuss anything at any time, stop reading now. You
 have already learned how to use a language at its full capacity. That is what
@@ -72,7 +74,7 @@ the context of the narrow domain described by the words in the software library.
 
 **Your language skills are only as good as what you can do with them.**
 
-### Qualities of a Good Student
+## Qualities of a Good Student
 
 I've been teaching for a few years. In that time, I've seen multiple students who started
 at a low level ultimately surpass other students who started (and stagnated) at
@@ -81,7 +83,7 @@ not age, and it's not some mysterious language talent. Look, obviously some
 people are better at learning some things than others. But talent is not the
 quality of a good student. These items are:
 
-#### **Intention.** 
+**Intention.** 
 
 Good students speak with intention, and they practice things
   they have learned with intention. When they learn a new word they try to use
@@ -90,14 +92,14 @@ Good students speak with intention, and they practice things
   intention, also called "giving a fuck," is the most important quality of a
   good student. 
 
-#### **Study of Real Uses of the Language.** 
+**Study of Real Uses of the Language.** 
 
   You are not going to master a language
   with pure passive study, but good students pay attention. They read, they
   listen to movies, they hear how native speakers talk and try to understand
   why they spoke the way they spoke.
 
-#### **Long-term Perspective.**
+**Long-term Perspective.**
   I've seen so many students say they're going to go
   on a "crash course." They buy books, buy classes, study multiple hours a day,
   and quit quickly. After this initial heave, some students become more
@@ -110,7 +112,7 @@ Good students speak with intention, and they practice things
   that a few weeks of effort will extricate you from a process that takes most
   people years is simply a pernicious form of laziness. 
 
-#### **Practice in Real Environments** 
+**Practice in Real Environments** 
   Language is useful only if it serves a
   community of speakers. Here's quiz. Which of the following is not part of a community of speakers? 
    
@@ -139,7 +141,7 @@ Good students speak with intention, and they practice things
   material not grammar books). They can also participate in online discussions
   about topics that interest them.
 
-#### **Ownership of their Learning.** 
+**Ownership of their Learning.** 
   This combines all of the above. You must
    care about learning. No amount of teaching or any number of classes can make you care. Why should a teacher care more about how you use a language than you do? A dirty secret of teaching is that the good students don't need a teacher and
    the bad students won't learn anyway. 
@@ -152,7 +154,7 @@ Good students speak with intention, and they practice things
   must understand a teacher's function. All a teacher can do is show a student the path. A good teacher shows the path very clearly. An exceptional teacher inspires the way a student thinks about a certain path.
   
 
-### Summing Up  
+## Summing Up  
   I speak a foreign language and I use it every day. I also work
   with people who use English as their foreign language every day. And
   many of them are not just students, but people who use the language 
