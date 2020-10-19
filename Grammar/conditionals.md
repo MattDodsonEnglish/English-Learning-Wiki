@@ -42,8 +42,8 @@ the main clause.
 
 ## Real Situations
 
-When the conditional is _present and real_ put the if-clause in the present
-simple, and the then-clause in the future:
+When the conditional is _present and real_, put the if-clause in the present
+simple and the then-clause in the future:
 
 | Moment | Later Moment |
 |---------|-------|
@@ -53,7 +53,7 @@ simple, and the then-clause in the future:
 
 ### Rare: Real past conditional 
 
-How do we give a real conditional past tense? Simply move the tenses of the if-clause and then-clauses
+When the condition is _past and real_, simply move the tenses of the "if" and "then" clauses
 to the past. So "have" becomes "had", and "won't be" becomes "wouldn't
 be". Yes, "would" is the past tense of "will" (really!)  
 
@@ -75,7 +75,7 @@ common! That's because it's also used for unreal present conditionals.
 As in other languages, English often puts constructions in the past to add
 a layer of irreality.
 
-When the condition is unreal and present, we mark that by putting the verbs
+When the condition is _unreal and present_, we mark that by putting the verbs
 in both the "if" and "then" clauses in the past tense.
 
 | present (condition)  |   future |
@@ -94,9 +94,9 @@ When the conditional is unreal and past, we move add the perfect aspect (eg had/
 
 ## There's always an exception: 0-conditionals
 
-0 conditionals describe simultaneauos events, so the "if" and "then" clauses are the same.
+0 conditionals describe simultaneaous events, so the "if" and "then" clauses are the same.
 
 |present|also present|
 |-----|--------------|
 |when temperature increases,|pressure does too|
-|If you see a tall guy,|that's probably my cousin pete.
+|If you see a tall guy,|that's probably my cousin Pete.
