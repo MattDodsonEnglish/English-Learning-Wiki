@@ -1,5 +1,7 @@
 # Conditionals
 
+![1st conditional](../Images/Conditional%201.png)
+
 ``` markdown
 Short Version: the grammar of conditional sentences coheres with their
 meaning. "If" comes before "then", so the tense of the "then" clause will be
@@ -10,7 +12,6 @@ of present conditional to the past tense. "If it rained on the moon, the lunar
 street would be wet", and the clauses of past conditional to the perfect aspect,
 "if JFK had not been assinated, the 1960s would have been different".
 ```
-
 -----
 A conditional sentence expresses what happens as a result of something else happening.
 They involve two events, the condition and its outcome, and have two clauses,
