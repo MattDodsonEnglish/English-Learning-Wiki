@@ -83,24 +83,21 @@ not age, and it's not some mysterious language talent. Look, obviously some
 people are better at learning some things than others. But talent is not the
 quality of a good student. These items are:
 
-**Intention.** 
-
-Good students speak with intention, and they practice things
-  they have learned with intention. When they learn a new word they try to use
-  it. When they learn a new grammar structure, they consciously try to use it.
+**Intention.**  Good students speak with intention, and they practice things
+  they have learned with intention. When they learn a new word or grammar structure,
+  they conciously try to use
+  it.
   When they hear about a mistake they made, they actively try to fix it. This
   intention, also called "giving a fuck," is the most important quality of a
   good student. 
 
-**Study of Real Uses of the Language.** 
-
-  You are not going to master a language
+**Study of Real Uses of the Language.** You are not going to master a language
   with pure passive study, but good students pay attention. They read, they
-  listen to movies, they hear how native speakers talk and try to understand
+  listen, and they hear how native speakers talk and try to understand
   why they spoke the way they spoke.
 
 **Long-term Perspective.**
-  I've seen so many students say they're going to go
+  I've seen many students say they're going to go
   on a "crash course." They buy books, buy classes, study multiple hours a day,
   and quit quickly. After this initial heave, some students become more
   realistic about their learning and take it slowly. Others quit and then use
