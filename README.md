@@ -22,7 +22,7 @@ classroom or in real life.
 
 What does it mean to use language well? What does it mean to be a good student?
 
-These are two of the most important questions a language learner can ask themselves. I try to answer here.
+These are two of the most important questions a language learner can ask themselves. I try both answer here.
 
 ## How do we Use Language?
 
