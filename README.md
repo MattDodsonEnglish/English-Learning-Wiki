@@ -14,7 +14,7 @@ classroom or in real life.
 ## Table of Contents
 * [**Preliminary**](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/README.md#preliminary)
 * **[Grammar](./Grammar/Grammar.md)**
-* **[Pronunciation]**(./Pronunciation.md)
+* **[Pronunciation](./Pronunciation.md)**
 * How do I practice English?
 * Useful Tools
 
