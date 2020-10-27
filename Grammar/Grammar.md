@@ -2,7 +2,7 @@
 
 Grammar is the set of rules governing how we speak a language. 
 
-* [Do I need to learn Grammar?](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/Grammar/Do-I-Need-Grammar%3F.md)
+* [Do I need to learn Grammar?](./Do-I-Need-Gramar%3F.md)
 * [Verbs](#Verbs)
     * [TAM]
         * Tense, Aspect, Mood
