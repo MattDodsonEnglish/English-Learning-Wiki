@@ -4,15 +4,15 @@
 Here's an assortment of random tips. Maybe they'll link to other sections, some
 day.
 
-## Let me EXPLAIN SOMETHING to YOU
+## Let me Explain Something to You
 
-Remember, the object of `explain` is what is being explained. Lets look at the
+Remember, the object of `explain` is what is being explained. Let's look at the
 the errors of Gennady.
 
-```diffs
-- Could you please explain me ~, have they tried to update
+```diff
+- Could you please explain me, have they tried to update
 the library? 
-+ Could you please explain *TO* me *whether they've* tried to update the library
++ Could you please explain *TO* me *whether they've* tried to update the library.
 ```
 When Gennady says `explain me`, that would literally mean `explain the
 existence of Gennady`. Perhaps it's a valid question but it seems a bit
