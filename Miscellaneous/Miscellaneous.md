@@ -14,8 +14,7 @@ Remember, the object of `explain` is what is being explained. Let's look at the
 the errors of Gennady.
 
 ```diff
-- Could you please explain me, have they tried to update
-the library? 
+- Could you please explain me, have they tried to update the library? 
 + Could you please explain *TO* me *whether they've* tried to update the library.
 ```
 When Gennady says `explain me`, that would literally mean `explain the
