@@ -4,6 +4,10 @@
 Here's an assortment of random tips. Maybe they'll link to other sections, some
 day.
 
+ * [The Slav Smile](./slavicsmile.md)
+ * [Don't Call that Wizar Gary Potter](./Garrypotter.md)
+ * [Key vs Kay](./Keyvalue.md)
+
 ## Let me Explain Something to You
 
 Remember, the object of `explain` is what is being explained. Let's look at the
