@@ -21,13 +21,12 @@ is used-
 
 If you search for a word
 or expression on a good corpus, you'll find lots of helpful context information.
-For example, you'll find how which words frequently occur near your expression.
-Frequently occurring words  or _collocates_ with
-another word. Handling collocations well are one of the keys to really advanced
+For example, you'll find how frequently words occur,  or _collocate,_ with
+others words. Handling collocations well are one of the keys to really advanced
 speech.
 
 Here's an example of how a student and I recently used a corpus. He asked me
-about what times the preposition "to" is followed by an ` -ing` form of the verb. As in 
+about the times when the preposition "to" is followed by an ` -ing` form of the verb. As in 
 
 > I look forward **to meeting** you
 
@@ -44,12 +43,11 @@ Here we found many collocations, ordered by most frequent. Some examples, using 
 * [when it]comes to going
 * forward to going
 * prior to going
-* when it comes to going
-* in addition to going
+* [in] addition to going
 
  So both teacher and student used the corpus to get what they need: he got a list of common collocations, which he could memorize using Anki(#anki), and I found out that its better check the data
 than to bullshit. I also realized that "to+ing" occurs whenever the "ing" could be replaced by 
-common noun. E.g. "Prior to the crime," "when it comes to the crime," "I look forward to the crime." 
+common noun. E.g. "Prior to the crime," "when it comes to the crime," and "I look forward to the crime." 
 
 
 ## Reading
@@ -67,10 +65,10 @@ I personally use Slova often for Spanish.
 
 ## Spaced-repetition
 
+* [Anki](https://apps.ankiweb.net/). What I personally use. There are many others, like mnemosyne.
+
 Language learning is a field where a certain amount of brute memorization is actually necessary.
 [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a proven tool to improve long term recall of information.
-
-I personally use Anki, but there are many other tools, like Mnemosyne. 
 
 Besides vocabulary, spaced repetition is very memorizing for collocation and tricky grammar. As my "forward to going" example showed above, English prepositions are notoriously tricky. The rules for when to use them are often completely arbitrary, or even non-existent. Even when there are rules, it's so tricky to remember them that it's better just to memorize and not look for a system. Think of it like
 trigonometry: although there are formal methods for calculating `SIN`, for the vast majority of us non-mathematicians, it more than suffices just to mash the button on the calculator.
