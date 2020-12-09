@@ -45,7 +45,7 @@ Here we found many collocations, ordered by most frequent. Some examples, using 
 * prior to going
 * [in] addition to going
 
- So both teacher and student used the corpus to get what they need: he got a list of common collocations, which he could memorize using Anki(#anki), and I found out that its better check the data
+ So both teacher and student used the corpus to get what they need: he got a list of common collocations, which he could memorize using [Anki](#space-repetion), and I found out that its better check the data
 than to bullshit. I also realized that "to+ing" occurs whenever the "ing" could be replaced by 
 common noun. E.g. "Prior to the crime," "when it comes to the crime," and "I look forward to the crime." 
 
