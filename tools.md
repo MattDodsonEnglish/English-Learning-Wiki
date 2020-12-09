@@ -52,7 +52,7 @@ common noun. E.g. "Prior to the crime," "when it comes to the crime," and "I loo
 
 ## Reading
 
-* [Slova](slova.cc) A very useful site that counts the number of times a word occurs in 
+* [Slova](https://www.slova.cc) A very useful site that counts the number of times a word occurs in 
 a text or on a youtube video. When unknown words appear more frequently in a text,
 you know they're probably more important to learn. You can save your words and export them, which 
 makes it perfect to use in conjunction with [Spaced repetition](#spaced-repetition).
