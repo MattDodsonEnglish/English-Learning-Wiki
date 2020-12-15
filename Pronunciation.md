@@ -28,5 +28,5 @@ This wiki article on [Non-native pronunciations of English](https://en.wikipedia
 ### Russian
 * This link provides a a [pretty comprehensive list](https://ivelum.slack.com/archives/C0YNKL553/p1600445263017800) of minimal pairs that are hard for Russians.
 * Russian also frequenly unvoice the consonants terminating words, saying things like "hef" instead of "have".
-* [Don't Call that Wizard Garry Potter](./Garrypotter.md)
-* [Key value is not K value](./Keyvalue.md) 
+* [Don't Call that Wizard Garry Potter](./miscellaneous/Garrypotter.md)
+* [Key value is not K value](./miscellaneous/Keyvalue.md) 
