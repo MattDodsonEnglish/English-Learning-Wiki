@@ -1,6 +1,11 @@
+NOTE: this section will undergo a major rewrite, for now only the parts about the perfect and document about conditionals are useful for the learner.
+
+hHopefully, the rewrite will be done by the end of 2020. If it's 2021 and you are reading this, I have broken my word,
 
 
 Grammar is the set of rules governing how we speak a language. 
+
+
 
 * [Do I need to learn Grammar?](./Do-I-Need-Gramar%3F.md)
 * [Verbs](#Verbs)
