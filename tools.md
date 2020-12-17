@@ -45,7 +45,7 @@ Here we found many collocations, ordered by most frequent. Some examples, using 
 * prior to going
 * [in] addition to going
 
- So both teacher and student used the corpus to get what they need: he got a list of common collocations, which he could memorize using [Anki](#space-repetion), and I found out that its better check the data
+ So both teacher and student used the corpus to get what they need: he got a list of common collocations, which he could memorize using [Anki](#spaced-repetion), and I found out that its better check the data
 than to bullshit. I also realized that "to+ing" occurs whenever the "ing" could be replaced by 
 common noun. E.g. "Prior to the crime," "when it comes to the crime," and "I look forward to the crime." 
 
@@ -59,8 +59,9 @@ makes it perfect to use in conjunction with [Spaced repetition](#spaced-repetiti
 
 Anyone who's read in a foreign language will tell you that sometimes its just not practical to look
 up every unfamiliar word. However, if a word occurs frequently, a reader probably does want to learn
-it. The best approach, used by many teachers, is to "pre-teach" important words. However, it's impossible to pre-teach yourself. This site helps with that.
+it. The best approach, used by many teachers, is to "pre-teach" important words.
 
+Unfortunately, though, it's impossible to pre-teach yourself. This site helps with that.
 I personally use Slova often for Spanish.
 
 ## Spaced-repetition
@@ -70,5 +71,5 @@ I personally use Slova often for Spanish.
 Language learning is a field where a certain amount of brute memorization is actually necessary.
 [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) is a proven tool to improve long term recall of information.
 
-Besides vocabulary, spaced repetition is very memorizing for collocation and tricky grammar. As my "forward to going" example showed above, English prepositions are notoriously tricky. The rules for when to use them are often completely arbitrary, or even non-existent. Even when there are rules, it's so tricky to remember them that it's better just to memorize and not look for a system. Think of it like
+Besides vocabulary, spaced repetition is very usefol for memorizing collocations and tricky grammatical structures. One example of topic that's suitable for brute force memorization is the English preposition, which are notoriously tricky. The rules for them are often completely arbitrary, or even non-existent. Even when there are rules, it's so tricky to remember them that it's better just to memorize and not look for a system. Think of it like
 trigonometry: although there are formal methods for calculating `SIN`, for the vast majority of us non-mathematicians, it more than suffices just to mash the button on the calculator.
