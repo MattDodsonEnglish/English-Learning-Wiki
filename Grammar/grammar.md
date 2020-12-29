@@ -12,7 +12,7 @@ This page contains only short summaries. You'll find links to the detailed
 articles in each section.
 
 * [Do I even need to learn grammar?](#do-i-even-need-to-learn-grammar%3F)
-* [All things at all times: a guide to verbs](./verb-guide). Mastering tense,
+* [All things at all times: a guide to verbs](./verb-guide.md). Mastering tense,
 aspect, and mood will give you enough grammatical range to discuss all things,
 real and imaginary, that happened during all times. Not bad!
 
