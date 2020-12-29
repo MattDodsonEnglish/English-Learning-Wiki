@@ -43,8 +43,13 @@ Steps 1, 2, and 3 give you all the necessary items and conjugations.
 3. [Learn the modals](./modals.md)
 
 From these building blocks, you can create sentences of infinite complexity. 
-Steps 4 and 5 teach you how to combine these items to conditions and embedded
-clauses. These
+Steps 4 and 5 teach you how to combine these items to create conditions and
+embedded clauses.
 
-3. Learn the conditionals: real and imaginary
-4. Learn how to embed clauses: reported speech and embedded sentences.
+4. Learn the conditionals: real and imaginary
+5. Learn how to embed clauses: reported speech and embedded sentences.
+
+It might be hard to remember how arrange structures with multiple aspects and modal.
+Don't worry, there's an order of operations.
+
+[Appendix: order of operations in verb structures](order-of-operations.md)
