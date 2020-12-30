@@ -15,6 +15,7 @@ classroom or in real life.
 * [**Preliminary**](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/README.md#preliminary)
 * **[Grammar](./Grammar/Grammar.md)**
 * **[Pronunciation](./Pronunciation.md)**
+* **[Miscellaneous Observations](./Miscellaneous/Miscellaneous.md)
 * **[Useful Tools](./tools.md)**
 
 # Preliminary
