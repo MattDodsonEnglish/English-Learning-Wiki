@@ -3,7 +3,7 @@ _an intuitive guide to verbs_
 
 The verb is the most important part of an English sentence. A verb is the primary
 place where a sentence's grammar happens, and it is the part of speech most
-sensitive to change. For example, watch how the verb transforms when I modifying
+sensitive to change. For example, watch how the verb transforms when I modify
 the sentence's beginning[in square brackets]. 
 
 >The verb **is** the most important part of an English sentence.
