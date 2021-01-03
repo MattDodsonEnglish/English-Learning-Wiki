@@ -17,28 +17,24 @@ the irregular past forms[°](https://grammar.cl/Past/Irregular_Verbs_List.htm).
 
 ## The present simple speaks about always
 
-![Void](./images/Eventlesstime.png)
 
 **Present simple**
 
 Really there are only two tenses in English: the present and the past. These
 topics are probably pretty basic for most of my audience, so I'll go quickly.
-
 This picture shows the dimension of time, devoid of all events:
 
+![Void](./images/Eventlesstime.png)
 
 Although we think of the present as the "right now," in it's _simple_ form,
 the present refers to things that are generally and permanently true.
 
->The horse eats grass.
-
 ![The horse eats grass.](./images/thehorseeats.png)
-
 
 What this sentence implies is a general truth about the horse's eating habits.
 What it doesn't imply is whether the horse is eating at the moment.
 
-There are two forms of the present: the verb "to be", and everything else.
+There are two forms of the present simple sentences: sentences that don't have the verb "to be" and sentences that do.
 Sentences with the verb "to be" differ from other sentences in three ways
 
 * Their conjugation (see link here[°](https://www.thoughtco.com/present-and-past-forms-verb-be-1690359))
