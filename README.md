@@ -13,7 +13,7 @@ classroom or in real life.
 
 ## Table of Contents
 * [**Preliminary**](https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/README.md#preliminary)
-* **[Grammar](./Grammar/Grammar.md)**
+* **[Grammar](./Grammar/grammar.md)**
 * **[Pronunciation](./Pronunciation.md)**
 * **[Miscellaneous Observations](./Miscellaneous/Miscellaneous.md)
 * **[Useful Tools](./tools.md)**
