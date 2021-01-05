@@ -1,10 +1,14 @@
-# Tense and Aspect
+# Tense
+
 
 *Tense*<sup>[wiki](https://en.wikipedia.org/wiki/Grammatical_tense)</sup> is 
 the time when an action occured.Really English only has two tenses, but we can
 go ahead and call the future a tense too.
 
-# Tenses mark the present and the past
+## Tenses mark the present and the past
+
+
+
 
 **prerequisites:** None. If you can read this sentence, you're good. However,
 to accurately construct past tenses, you will need to [memorize](../tools.md#spaced-repition)
