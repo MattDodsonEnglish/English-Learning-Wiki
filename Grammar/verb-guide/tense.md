@@ -1,13 +1,8 @@
 # Tense and Aspect
 
 *Tense*<sup>[wiki](https://en.wikipedia.org/wiki/Grammatical_tense)</sup> is 
-the time when an action occured.
-*Aspect*<sup>[wiki](https://en.wikipedia.org/wiki/Grammatical_aspect)</sup> is
-how an action extends over time.
-
-The tenses are the present, past, and the future. There are actually many ways
-to add aspect to a sentence, but I'm going to focus on the two main aspects:
-the perfect and the continuous.
+the time when an action occured.Really English only has two tenses, but we can
+go ahead and call the future a tense too.
 
 # Tenses mark the present and the past
 
@@ -118,7 +113,6 @@ The Horse   will   eat grass
 {{SUBJECT}} + will + {{VERB}}
 
 ```
-
 * With the verb to be + going + infinitive
 
 ```markdown
@@ -158,4 +152,4 @@ door in the immediate future. This means they won't have to, and they are lazy.
 
 ------------------
 
-Up next: Aspect. It's time to add some texture to time. 
+Up next: [aspect](./aspect.md). It's time to add some texture to time. 
