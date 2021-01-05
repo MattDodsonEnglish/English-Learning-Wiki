@@ -90,7 +90,7 @@ Now is a good time to introduce our 0th order of operation:
 
 **RULE 0: The time and subject of a sentence is marked by the verb closest to the left of the subject.**
 
-![](simpleclocks.png)
+![Whether it's a main verb or auxiliary, the verb farthest to the left sets the tense and subject](./imgaes/simpleclocks.png)
 
 Take a look at the diagram. Rule 0 is true, no matter whether the sentence
 is positive or negative, interrogative or declarative, or with a normal verb 
