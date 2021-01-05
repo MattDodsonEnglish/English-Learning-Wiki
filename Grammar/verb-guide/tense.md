@@ -152,8 +152,6 @@ door in the immediate future. This means they won't have to, and they are lazy.
 
 ------------------
 
-<<<<<<< HEAD
+
 Up next: [aspect](./aspect.md). It's time to add some texture to time. 
-=======
-Up next: [Aspect](#aspect.md). It's time to add some texture to time. 
->>>>>>> 1f516ca (Adds aspect, updates clock picture)
+ure)
