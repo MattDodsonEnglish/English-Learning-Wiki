@@ -25,6 +25,7 @@ Although we think of the present as the "right now," in it's _simple_ form,
 the present refers to things that are generally and permanently true.
 
 ![The horse eats grass.](./images/thehorseeats.png)
+[The image of this horse](https://commons.wikimedia.org/wiki/File:British_School_-_A_White_Horse_Grazing_-_1439061_-_National_Trust.jpg) is in the public domain.
 
 What this sentence implies is a general truth about the horse's eating habits.
 What it doesn't imply is whether the horse is eating at the moment.
