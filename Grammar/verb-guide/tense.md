@@ -72,7 +72,6 @@ a special aspect for the ongoing, which leaves only the generally true left.
 
 ## Presenting the 0th order of operation
 
-
 As I said, the present simple is the kernel from which all grammatical structures grow. In
 the case of the past simple, the syntax is the exact same. The only change is
 the verb form, which changes from present to past. As with the present simple,

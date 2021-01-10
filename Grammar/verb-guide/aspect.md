@@ -64,6 +64,33 @@ The horse    is           eating
 I            was        reading                
 ```
 
-Now, remember order of operation #1:
+When you want to set a continuous sentence's tense, don't forget order of operation #0:
 
->
+> **RULE 0: The time and subject of a sentence is marked by the verb closest to the left of the subject.**
+
+So, what's the verb closest to subject? In this case, it's the `verb to be`. So
+if you want to put a sentence in the continuous present, use `Subject + [am][is][are]`, depending
+on what form of the `verb to be` agrees with the subject. 
+
+* I am running
+* you are running
+* It is running
+
+In the case of the _past continuous,_ use the structure `subject + [was][were]`, again, depending
+on what form of the `verb to be` agrees with the subject.
+
+* I was running
+* We were running
+
+As I said, the continous emphasizes activity. So, when we use the past continuous,
+we are talking about an ongoing action that continued in the past. Very often,
+the past continuous does not exist alone, but rather is anchored to another event written
+in the past simple.
+
+[!The Horse was eating](./images/thehorsewaseating.png)
+
+
+
+However, here the `verb to be` is not acting as main verb, b**RULE 0: The time and subject of a sentence is marked by the verb closest to the left of the subject.**
+ut rather as an auxiliary.
+
