@@ -87,7 +87,7 @@ we are talking about an ongoing action that continued in the past. Very often,
 the past continuous does not exist alone, but rather is anchored to another event written
 in the past simple.
 
-[!The Horse was eating](./images/thehorsewaseating.png)
+![The Horse was eating](./images/thehorsewaseating.png)
 
 
 
