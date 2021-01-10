@@ -39,7 +39,7 @@ about all things and times.
 Steps 1, 2, and 3 give you all the necessary items and conjugations.
 
 1. [Learn the tenses](./tense.md): present, past (and future)
-2. [Learn the aspects](./tense-and-aspect.md#aspect): perfect and continuous
+2. [Learn the aspects](./aspect.md): perfect and continuous
 3. [Learn the modals](./modals.md)
 
 From these building blocks, you can create sentences of infinite complexity. 
