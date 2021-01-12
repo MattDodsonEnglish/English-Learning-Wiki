@@ -52,4 +52,4 @@ embedded clauses.
 It might be hard to remember how arrange structures with multiple aspects and modal.
 Don't worry, there's an order of operations.
 
-[Appendix: order of operations in verb structures](order-of-operations.md)
+[Appendix: order of operations in verb structures](./order-of-operations.md)
