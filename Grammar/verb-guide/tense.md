@@ -1,7 +1,7 @@
 # Tense
 
 **prerequisites:** None. If you can read this sentence, you're good. However,
-to accurately construct past tenses, you will need to [memorize](../tools.md#spaced-repetition)
+to accurately construct past tenses, you will need to [memorize](../../tools.md#spaced-repetition)
 the irregular past forms[°](https://grammar.cl/Past/Irregular_Verbs_List.htm).
 
 ## Tenses mark the present and the past
