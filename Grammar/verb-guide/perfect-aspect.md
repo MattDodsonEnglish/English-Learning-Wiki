@@ -1,4 +1,4 @@
-# The Perfect Aspect
+#The Perfect Aspect
 
 Now that we've covered the [continuous aspect](./aspect.md), let's turn to
 the perfect aspect. The perfect aspect can be a bit tricky for some students
