@@ -9,7 +9,7 @@ goes over the perfect and the perfect continuous aspects.
 how to conjugate the present and past simple, especially for the verbs "to do,"
 "to have," and "to be." You'll also need to learn the present participle[(i.e.
 the "-ing" form°)](https://www.grammar-monster.com/glossary/present_participle.htm)
-and the past[(i.e. "verb 3" form°](https://englishstudyhere.com/verbs/50-examples-of-present-tense-past-tense-and-past-participle/) participles.
+and the past (i.e. "verb 3" form)[°](https://englishstudyhere.com/verbs/50-examples-of-present-tense-past-tense-and-past-participle/) participles.
 
 ## Aspect creates texture in time 
 
