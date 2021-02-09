@@ -1,3 +1,5 @@
+Note: slack links will be removed and the content will be given separate pages. If this message is still up after Feb 15, 2021, I messed up.
+
 # Small explanations and exercises for all levels
 
 Here are ideas for everyone, based on a lot of experience teaching. 
