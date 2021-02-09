@@ -16,17 +16,17 @@ there's probably good tips for everyone.
      * [Continuous vs simple](#continuous-vs-simple)
      * MISSING: conjunctions and relative pronouns
    * A little more sophisticated:
-       * [Drill the past participles.](#drill-the-past-participles)
-       * [Perfect aspect](#perfect-aspect)
-       * [Present perfect continuous](#present-perfect-continuous)
-       * MISSING: Modals
+     * [Drill the past participles.](#drill-the-past-participles)
+     * [Perfect aspect](#perfect-aspect)
+     * [Present perfect continuous](#present-perfect-continuous)
+     * MISSING: Modals
    * Almost there
      * [Conditionals, 1 and 2](#conditionals-1-and-2)
      * [Past perfect](#past-perfect)
      * [3rd conditional](#3rd-conditional)
-    * After this, see the [Writing section](#writing)
-      * [Understand clauses](#understand-clauses)
-      * [Embedded questions/Reported speech](#embedded-questionsreported-speech)
+   * After this, see the [Writing section](#writing)
+     * [Understand clauses](#understand-clauses)
+     * [Embedded questions/Reported speech](#embedded-questionsreported-speech)
 * [Vocab:](#vocab-1)
    * [Prepositions](#prepositions)
    * [Phrasal verbs](#phrasal-verbs)
@@ -36,6 +36,7 @@ there's probably good tips for everyone.
     * [Practice describing images](#practice-describing-images)
     * [Listen/watch content with dense amounts of language](#listenwatch-content-with-dense-amounts-of-language)
 * [Writing](#writing)
+  * [Understanding clauses](#understanding-clauses)
   * [Google technical writing courses](#google-technical-writing-courses)
   * [Subordinating clauses/logical connectors](#subordinating-clauseslogical-connectors)
   * [Advanced techniques](#advanced-techniques)
@@ -88,19 +89,21 @@ investment of time for deep listening and producing natural English rhythms.
 
 ## Grammar
 
-### Articles
+1. ### Getting started
+
+#### Articles
 
 Practice inserting articles into a text. See my post here:
 https://ivelum.slack.com/archives/C0YNKL553/p1611856073120200
 
-### Irregular plurals
+#### Irregular plurals
 
 A classic mistake from is saying things like many "manys" or my two "childs/childrens"
 
 So it'd be good to review this list of [irregular plurals](https://eslgrammar.org/regular-irregular-plural-nouns/)
 This is a perfect job for Anki, by the way.
 
-### Continuous vs simple
+#### Continuous vs simple
 
 ```markdown
 Form
@@ -128,7 +131,9 @@ I personally wrote much more info here: https://github.com/MattDodsonEnglish/Eng
 Exercises:
 * https://www.perfect-english-grammar.com/present-simple-present-continuous-1.html
 
-### Drill the past participles.
+### A little more sophisticated
+
+#### Drill the past participles.
 
 The past participles (sometimes called verb-3) are the verb forms that appear
 in perfect constructions, after "have/has/had":
@@ -152,7 +157,7 @@ why not use this list of irregular ones?
 
 * Irregular past participles. https://www.woodwardenglish.com/lesson/irregular-past-participles/
 
-### Perfect aspect 
+#### Perfect aspect 
 
 The perfect provides background information to other events.
 
@@ -169,7 +174,7 @@ perfect("will have been")... well what do you think?
 * Study these signal words, and make your own sentences using each one(rotate between I/ she/they and Negative/questions)
 [signal words](https://www.englisch-hilfen.de/en/grammar/present_perfect_signal_words.htm)
 
-### Present perfect continuous
+#### Present perfect continuous
 
 So, the continuous is for ongoing, and the perfect is for linking. In
 that case, the perfect continuous must be to link an ongoing event to 
@@ -178,53 +183,12 @@ a later event
 Exercises:
 * Present perfect, or present perfect continuous? https://www.perfect-english-grammar.com/present-perfect-simple-or-present-perfect-continuous.html
 
-### Understand clauses
+### Almost there
 
-This topic is a little theoretical, but learning should pay huge dividend. Once
-you can figure out the difference between subordinate and main clauses, there's
-no limit to the level of sentences you can create.
+At this point, you'll need to understand at a conceptual level the idea
+of clauses. However, you don't need to get too technical with it. If
+you want to, check out the [clause section in writing advice](#understand-clauses) 
 
-Basically, a clause is a subject verb pair.
-
-These sentences have one clause:
-
-> I am writing a report. (subject: "I"; verb: "report)
-> Move the chair. (subject: "you"; verb: "move")
-
-And these have two clauses:
-
-> I am writing a report and my friend is talking on the phone.(Subj: -I, -friend; verbs: -write, -talk) 
-
->I am writing a report about how we learn clauses. (Subj: I , we ; verbs: write; learn)
-
-However these two sentences have clauses in different ways. One sentence
-can be broken into two complete sentence, the other cannot. Which one can't
-be broken down? 
-
-"how we learn clauses" can't be it's own clause. So, it's what we call
-a subclause. Remove "and" and the first sentence functions perfectly fine
-as two. These are called independent clauses.
-
-As you can see, I could theoretically break these sentences down into YAML-like
-objects. 
-
-```YAML
-clause: "how we learn"
-  type: "sub-clause"
-  dependency: "I am writing"
-  subject "we"
-```
-
-I'm not going to continue with that because I want to keep my reports relatively short.
-
-Once you have figured out how to identify clauses, you will be able to always
-navigate to the core items of a sentence.
-
-This engvid video taught me the concept, I hope it will help you:
-https://www.youtube.com/watch?v=7BsBbZqwU-c
-
-Once you've learned them. It'll help your writing. Follow this simple guideline:
-_put the main clause in the main point_
 
 ### Conditionals, 1 and 2
 
@@ -377,10 +341,58 @@ find that yourself.
 
 ## Writing
 
-Also see [Understanding clauses](#understand-clauses)
-
 Two books I can highly recommend are *Trees, Maps, and Theorems* and *Style: Clarity
 and Grace*. Some of these ideas are from there.
+
+
+### Understand clauses
+
+This topic is a little theoretical, but learning should pay huge dividend. Once
+you can figure out the difference between subordinate and main clauses, there's
+no limit to the level of sentences you can create.
+
+Basically, a clause is a subject verb pair.
+
+These sentences have one clause:
+
+> I am writing a report. (subject: "I"; verb: "report)
+> Move the chair. (subject: "you"; verb: "move")
+
+And these have two clauses:
+
+> I am writing a report and my friend is talking on the phone.(Subj: -I, -friend; verbs: -write, -talk) 
+
+>I am writing a report about how we learn clauses. (Subj: I , we ; verbs: write; learn)
+
+However these two sentences have clauses in different ways. One sentence
+can be broken into two complete sentence, the other cannot. Which one can't
+be broken down? 
+
+"how we learn clauses" can't be it's own clause. So, it's what we call
+a subclause. Remove "and" and the first sentence functions perfectly fine
+as two. These are called independent clauses.
+
+As you can see, I could theoretically break these sentences down into YAML-like
+objects. 
+
+```YAML
+clause: "how we learn"
+  type: "sub-clause"
+  dependency: "I am writing"
+  subject "we"
+```
+
+I'm not going to continue with that because I want to keep my reports relatively short.
+
+Once you have figured out how to identify clauses, you will be able to always
+navigate to the core items of a sentence.
+
+This engvid video taught me the concept, I hope it will help you:
+https://www.youtube.com/watch?v=7BsBbZqwU-c
+
+Once you've learned them. It'll help your writing. Follow this simple guideline:
+_put the main clause in the main point_
+
 
 ### Google technical writing courses
 
