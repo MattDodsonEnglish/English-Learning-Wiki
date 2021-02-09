@@ -1,6 +1,3 @@
-Note for non-Slavs: these notes are compiled from ideas I got teaching and speaking to a group of talented Slavic natives for thousands of hours. Though the advice is currently Slav-centric,it should be
-of use to everyone.
-
 # Small explanations and exercises for all levels
 
 Here are ideas for everyone, based on a lot of experience teaching. 
