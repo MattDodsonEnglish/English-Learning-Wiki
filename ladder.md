@@ -45,6 +45,7 @@ there's probably good tips for everyone.
 
 
 ----
+
 Supplementary
 
 For everything above, you could search expressions in Youglish. E.g. take 
@@ -57,6 +58,7 @@ Think "why did these people say what they said the way the did?"
 
 Practice vocabulary and grammar. Make cards, write sentences down.
 Look for opportunities to use what you've learned in your daily life.
+
 ----
 
 ## Pronunciation: 
