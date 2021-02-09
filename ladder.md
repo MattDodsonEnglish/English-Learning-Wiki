@@ -2,54 +2,54 @@ Note: slack links will be removed and the content will be given separate pages. 
 
 # Small explanations and exercises for all levels
 
-Here are ideas for everyone, based on a lot of experience teaching. 
+![Work your way up the ladder](./Images/grammarladder.png)
+
+Here are ideas for everyone, based on a lot of experience teaching.
 Each section begins with easiest topics and ends with the most advanced topics.
 This is especially relevant for grammar and writing; for pronunciation and vocab,
 there's probably good tips for everyone.
 
 * [Pronunciation:](#pronunciation)
-   * [Practice minimal pairs](#practice-minimal-pairs)
-   * [Practice mouth posture](#practice-mouth-posture)
-   * [Advanced-intonation](#advanced-intonation)
+  * [Practice minimal pairs](#practice-minimal-pairs)
+  * [Practice mouth posture](#practice-mouth-posture)
+  * [Advanced-intonation](#advanced-intonation)
 * [Grammar](#grammar)
-   * Getting started:
-     * [Articles](#articles)
-     * [Irregular plurals](#irregular-plurals)
-     * [Continuous vs simple](#continuous-vs-simple)
-     * MISSING: conjunctions and relative pronouns
-   * A little more sophisticated:
-     * [Drill the past participles.](#drill-the-past-participles)
-     * [Perfect aspect](#perfect-aspect)
-     * [Present perfect continuous](#present-perfect-continuous)
-     * MISSING: Modals
-   * Almost there
-     * [Conditionals, 1 and 2](#conditionals-1-and-2)
-     * [Past perfect](#past-perfect)
-     * [3rd conditional](#3rd-conditional)
-   * After this, see the [Writing section](#writing)
-     * [Understand clauses](#understand-clauses)
-     * [Embedded questions/Reported speech](#embedded-questionsreported-speech)
+  * [Getting started](#getting-started):
+    * [Articles](#articles)
+    * [Irregular plurals](#irregular-plurals)
+    * [Continuous vs simple](#continuous-vs-simple)
+    * MISSING: conjunctions and relative pronouns
+* Now you're talking:
+  * [Drill the past participles.](#drill-the-past-participles)
+    * [Perfect aspect](#perfect-aspect)
+    * [Present perfect continuous](#present-perfect-continuous)
+    * MISSING: Modals
+* Decent
+  * [Conditionals, 1 and 2](#conditionals-1-and-2)
+  * [Past perfect](#past-perfect)
+  * [3rd conditional](#3rd-conditional)
+* After this, see the [Writing section](#writing)
+  * [Understand clauses](#understand-clauses)
+  * [Embedded questions/Reported speech#embedded-questionsreported-speech)
 * [Vocab:](#vocab-1)
-   * [Prepositions](#prepositions)
-   * [Phrasal verbs](#phrasal-verbs)
-   * [Collocations](#collocations)
+  * [Prepositions](#prepositions)
+  * [Phrasal verbs](#phrasal-verbs)
+  * [Collocations](#collocations)
 * [Fluency](#fluency)
-    * [Think aloud](#think-aloud)
-    * [Practice describing images](#practice-describing-images)
-    * [Listen/watch content with dense amounts of language](#listenwatch-content-with-dense-amounts-of-language)
+  * [Think aloud](#think-aloud)
+  * [Practice describing images](#practice-describing-images)
+  * [Listen/watch content with dense amounts of language](#listenwatch-content-with-dense-amounts-of-language)
 * [Writing](#writing)
   * [Understanding clauses](#understanding-clauses)
   * [Google technical writing courses](#google-technical-writing-courses)
   * [Subordinating clauses/logical connectors](#subordinating-clauseslogical-connectors)
   * [Advanced techniques](#advanced-techniques)
 
-
 ----
 
 Supplementary
 
-For everything above, you could search expressions in Youglish. E.g. take 
-piece of a grammar structure ("had been going") and search on Youglish to
+For everything above, you could search expressions in Youglish. E.g. take piece of a grammar structure ("had been going") and search on Youglish to
 see how real people are using it. Don't only listen, but repeat what they say,
 this will enforce pronunciation and creation of natural expression.
 
@@ -61,42 +61,39 @@ Look for opportunities to use what you've learned in your daily life.
 
 ----
 
-## Pronunciation: 
+## Pronunciation
 
 ### Practice minimal pairs
 
-http://tedpower.co.uk/l1russian.html
+[Special list for slavs](http://tedpower.co.uk/l1russian.html)
 
+* [ship vs sheep](https://www.englishclub.com/pronunciation/minimal-pairs-e-i.htm)
+* [Minimal Pair initial /v/ and /w/](https://www.englishclub.com/pronunciation/minimal-pairs-v-w-initial.php)
 
-* ship vs sheep https://www.englishclub.com/pronunciation/minimal-pairs-e-i.htm
-* Minimal Pair initial /v/ and /w/: https://www.englishclub.com/pronunciation/minimal-pairs-v-w-initial.php
-
-To learn how to pronounce words like "opaque," research the magic "E"
-https://www.youtube.com/watch?v=dsW5qQ2B_xE
+To learn how to pronounce words like "opaque," [research the magic "E"](https://www.youtube.com/watch?v=dsW5qQ2B_xE)
 
 ### Practice mouth posture
 
 American accent comes from the fact that all Americans generally position their
 mouths in the same way. Practicing how to pronounce words could pay big dividends.
 
-https://rachelsenglish.com/mouth-position-study/
+* [Mouth posture](https://rachelsenglish.com/mouth-position-study/)
 
 ### Advanced-intonation
 
 This video 30 minutes long and pretty detailed, but it's probably a good
 investment of time for deep listening and producing natural English rhythms.
 
-* https://rachelsenglish.com/english-pronunciation-analysis/
-
+* [From Rachel's English](https://rachelsenglish.com/english-pronunciation-analysis/)
 
 ## Grammar
 
-1. ### Getting started
+### Getting started
 
 #### Articles
 
-Practice inserting articles into a text. See my post here:
-https://ivelum.slack.com/archives/C0YNKL553/p1611856073120200
+Practice inserting articles into a text. [See my post here](
+https://ivelum.slack.com/archives/C0YNKL553/p1611856073120200)
 
 #### Irregular plurals
 
@@ -128,14 +125,13 @@ Past
 "The cow was eating grass" ─ a non-finished event, so we are speaking from
 "inside" another past moment.
 
-I personally wrote much more info here: https://github.com/MattDodsonEnglish/English-Learning-Wiki/blob/master/Grammar/verb-guide/aspect.md#the-continuous-aspect-describes-ongoing-activity
-
 Exercises:
-* https://www.perfect-english-grammar.com/present-simple-present-continuous-1.html
+
+* [Present simple vs present continuous](https://www.perfect-english-grammar.com/present-simple-present-continuous-1.html)
 
 ### A little more sophisticated
 
-#### Drill the past participles.
+#### Drill the past participles
 
 The past participles (sometimes called verb-3) are the verb forms that appear
 in perfect constructions, after "have/has/had":
@@ -157,9 +153,9 @@ using them where they should be:
 All of the grammar below uses the past participles. So, when you're practicing
 why not use this list of irregular ones?
 
-* Irregular past participles. https://www.woodwardenglish.com/lesson/irregular-past-participles/
+* [Irregular past participles](https://www.woodwardenglish.com/lesson/irregular-past-participles/)
 
-#### Perfect aspect 
+#### Perfect aspect
 
 The perfect provides background information to other events.
 
@@ -179,18 +175,18 @@ perfect("will have been")... well what do you think?
 #### Present perfect continuous
 
 So, the continuous is for ongoing, and the perfect is for linking. In
-that case, the perfect continuous must be to link an ongoing event to 
+that case, the perfect continuous must be to link an ongoing event to
 a later event
 
 Exercises:
-* Present perfect, or present perfect continuous? https://www.perfect-english-grammar.com/present-perfect-simple-or-present-perfect-continuous.html
+
+* [Present perfect, or present perfect continuous?](https://www.perfect-english-grammar.com/present-perfect-simple-or-present-perfect-continuous.html)
 
 ### Almost there
 
 At this point, you'll need to understand at a conceptual level the idea
 of clauses. However, you don't need to get too technical with it. If
-you want to, check out the [clause section in writing advice](#understand-clauses) 
-
+you want to, check out the [clause section in writing advice](#understand-clauses)
 
 ### Conditionals, 1 and 2
 
@@ -209,15 +205,15 @@ moves to the past tense ("would" is the past of "will).
 
 > If the alien got tired, it would take a nap.
 
-* (practice the conditionals here)[https://www.perfect-english-grammar.com/first-conditional-exercise-1.html]
-* (practice the second here.)[https://www.perfect-english-grammar.com/conditional-exercises.html]
+* [practice the conditionals here](https://www.perfect-english-grammar.com/first-conditional-exercise-1.html)
+* [practice the second here.](https://www.perfect-english-grammar.com/conditional-exercises.html)
 * [practice both:](https://www.perfect-english-grammar.com/support-files/all_conditionals_form_mixed_exercise.pdf)
 
 ### Past perfect
 
 For describing how one past event relates to another past event.
 
->I hadn't logged in so I didn't see your message 
+>I hadn't logged in so I didn't see your message
 
 (linking how "not logging in" relates to "not seeing")
 
@@ -226,8 +222,9 @@ Or you can try the continuous version:
 > I had been working all day, so I was tired
 
 Exercises:
-* Past perfect vs past continuous: https://elt.oup.com/student/solutions/upperint/grammar/grammar_02_022e?cc=ar&selLanguage=en
-*  Past simple vs Past perfect: https://www.perfect-english-grammar.com/past-perfect-exercise-3.html
+
+* [Past perfect vs past continuous](https://elt.oup.com/student/solutions/upperint/grammar/grammar_02_022e?cc=ar&selLanguage=en)
+* [Past simple vs Past perfect](https://www.perfect-english-grammar.com/past-perfect-exercise-3.html)
 
 ### 3rd conditional
 
@@ -240,12 +237,9 @@ From here, you can also describe past probabilities and advice:
 >I should've known, I could have been smart if I had studied
 
 Exercises:
-* 3rd conditional https://www.perfect-english-grammar.com/third-conditional.html
-* Could have/would have/: https://learningenglish.voanews.com/a/everyday-grammar-could-have-should-have-would-have/3391128.html
-## Vocab:
 
-Learn collocations between make, do, and take:
-* https://english.lingolia.com/en/vocabulary/confusing-words/make-do-take
+* [3rd conditional](https://www.perfect-english-grammar.com/third-conditional.html)
+* [Could have/would have/should have](https://learningenglish.voanews.com/a/everyday-grammar-could-have-should-have-would-have/3391128.html)
 
 ### Embedded questions/Reported speech
 
@@ -263,19 +257,24 @@ The result is that, if the main clause is past tense, the sub-clause will be mad
 
 "He said 'I have seen that movie'"→ "he said he had seen that movie"
 
-* exercise about embedded questions: https://www.perfect-english-grammar.com/embedded-questions.html
-* exercise about reported speech: https://www.perfect-english-grammar.com/reported-speech.html
+* exercise about [embedded questions](https://www.perfect-english-grammar.com/embedded-questions.html)
+* exercise about [reported speech](https://www.perfect-english-grammar.com/reported-speech.html)
 
-## Vocab:
+## Vocab
+
+### Collocations
+
+* [Learn collocations between make, do, and take](
+https://english.lingolia.com/en/vocabulary/confusing-words/make-do-take)
 
 ### Prepositions
 
 Let's face it: prepositions are a huge pain in the ass to master. Very often
 there's no logic, or there may be more than one correct answer. In my opionion
-by far the best thing to do is make Anki cards that have whole Russian sentences 
+by far the best thing to do is make Anki cards that have whole Russian sentences
 on one side, that you must translate in English.
 
-Only mark the card "good" if you can translate the entire sentence, with the 
+Only mark the card "good" if you can translate the entire sentence, with the
 proper preposition. After a while, it'll become automatic to produce the perfect
 sentence, which will enforce good vocabulary patterns.
 
@@ -287,13 +286,7 @@ Vocab is a huge topic, but one way you could improve, and sound natural,
 is by learning some more advanced phrasal verbs. With flash cards, it wouldn't
 be too hard to learn these.
 
-* https://breakoutenglish.com/advanced-cae/phrasal-verbs/
-
-
-### Collocations 
-
-*  Learn collocations between make, do, and take:
-* https://english.lingolia.com/en/vocabulary/confusing-words/make-do-take
+* [Advanced phrasal verbs](https://breakoutenglish.com/advanced-cae/phrasal-verbs/)
 
 ## Fluency
 
@@ -346,7 +339,6 @@ find that yourself.
 Two books I can highly recommend are *Trees, Maps, and Theorems* and *Style: Clarity
 and Grace*. Some of these ideas are from there.
 
-
 ### Understand clauses
 
 This topic is a little theoretical, but learning should pay huge dividend. Once
@@ -362,39 +354,42 @@ These sentences have one clause:
 
 And these have two clauses:
 
-> I am writing a report and my friend is talking on the phone.(Subj: -I, -friend; verbs: -write, -talk) 
-
+> I am writing a report and my friend is talking on the phone.(Subj: -I, -friend; verbs: -write, -talk)
 >I am writing a report about how we learn clauses. (Subj: I , we ; verbs: write; learn)
 
 However these two sentences have clauses in different ways. One sentence
-can be broken into two complete sentence, the other cannot. Which one can't
-be broken down? 
+can be broken into two complete sentence, the other cannot. Which one can't be broken down?
 
 "how we learn clauses" can't be it's own clause. So, it's what we call
 a subclause. Remove "and" and the first sentence functions perfectly fine
 as two. These are called independent clauses.
 
 As you can see, I could theoretically break these sentences down into YAML-like
-objects. 
+objects.
 
 ```YAML
-clause: "how we learn"
-  type: "sub-clause"
-  dependency: "I am writing"
-  subject "we"
+clause: "how we learn clauses"
+  main or sub: "sub-clause"
+    type: "relative clause"
+    dependency: "I am writing"
+  subject: "we"
+  verb: "learn"
+  object: "clauses"
+clause: "I am writing a report"
+  main or sub: "main"
+  subject: I
+  verb: write
+    auxiliary: am
 ```
 
-I'm not going to continue with that because I want to keep my reports relatively short.
+I could go on, but I want to keep my reports relatively short.
 
-Once you have figured out how to identify clauses, you will be able to always
-navigate to the core items of a sentence.
+Once you have figured out how to identify clauses, you will be able to always navigate to the core items of a sentence.
 
-This engvid video taught me the concept, I hope it will help you:
-https://www.youtube.com/watch?v=7BsBbZqwU-c
+[This engvid video](https://www.youtube.com/watch?v=7BsBbZqwU-c) taught me the concept, I hope it will help you:
 
 Once you've learned them. It'll help your writing. Follow this simple guideline:
-_put the main clause in the main point_
-
+_put the main point in the main clause._
 
 ### Google technical writing courses
 
@@ -405,7 +400,8 @@ you a little grammar.
 * [Part two](https://developers.google.com/tech-writing/two)
 
 After that, you can look at this guide for reference anytime:
-* [Google style guide](https://developers.google.com/style/lists)
+
+* [Google style guide](https://developers.google.com/style/lists=)
 
 ### Subordinating clauses/logical connectors
 
@@ -432,7 +428,7 @@ Check your answers and see [a lot more examples here](https://staff.washington.e
 
 ### Advanced techniques
 
-* Practice writing with modifiers. See this slack post: https://ivelum.slack.com/archives/C0YNKL553/p1611239052014200
+* Practice writing with modifiers. See this [slack post](https://ivelum.slack.com/archives/C0YNKL553/p1611239052014200)
 * Think about sub and main clause. In technical writing, put the most important
 info in the main clause.
 * Revise paragraphs. Try to think about what the paragraph's main point is.
