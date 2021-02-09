@@ -8,40 +8,40 @@ Each section begins with easiest topics and ends with the most advanced topics.
 This is especially relevant for grammar and writing; for pronunciation and vocab,
 there's probably good tips for everyone.
 
-      * [Pronunciation:](#pronunciation)
-         * [Practice minimal pairs](#practice-minimal-pairs)
-         * [Practice mouth posture](#practice-mouth-posture)
-         * [Advanced-intonation](#advanced-intonation)
-      * [Grammar](#grammar)
-         * Getting started:
-            * [Articles](#articles)
-            * [Irregular plurals](#irregular-plurals)
-            * [Continuous vs simple](#continuous-vs-simple)
-            * MISSING: conjunctions and relative pronouns
-         * A little more sophisticated:
-            * [Drill the past participles.](#drill-the-past-participles)
-            * [Perfect aspect](#perfect-aspect)
-            * [Present perfect continuous](#present-perfect-continuous)
-            * MISSING: Modals
-         * Almost there
-            * [Conditionals, 1 and 2](#conditionals-1-and-2)
-            * [Past perfect](#past-perfect)
-            * [3rd conditional](#3rd-conditional)
-         * After this, see the [Writing section](#writing)
-            * [Understand clauses](#understand-clauses)
-            * [Embedded questions/Reported speech](#embedded-questionsreported-speech)
-      * [Vocab:](#vocab-1)
-         * [Prepositions](#prepositions)
-         * [Phrasal verbs](#phrasal-verbs)
-         * [Collocations](#collocations)
-      * [Fluency](#fluency)
-         * [Think aloud](#think-aloud)
-         * [Practice describing images](#practice-describing-images)
-         * [Listen/watch content with dense amounts of language](#listenwatch-content-with-dense-amounts-of-language)
-      * [Writing](#writing)
-         * [Google technical writing courses](#google-technical-writing-courses)
-         * [Subordinating clauses/logical connectors](#subordinating-clauseslogical-connectors)
-         * [Advanced techniques](#advanced-techniques)
+* [Pronunciation:](#pronunciation)
+   * [Practice minimal pairs](#practice-minimal-pairs)
+   * [Practice mouth posture](#practice-mouth-posture)
+   * [Advanced-intonation](#advanced-intonation)
+* [Grammar](#grammar)
+   * Getting started:
+     * [Articles](#articles)
+     * [Irregular plurals](#irregular-plurals)
+     * [Continuous vs simple](#continuous-vs-simple)
+     * MISSING: conjunctions and relative pronouns
+   * A little more sophisticated:
+       * [Drill the past participles.](#drill-the-past-participles)
+       * [Perfect aspect](#perfect-aspect)
+       * [Present perfect continuous](#present-perfect-continuous)
+       * MISSING: Modals
+   * Almost there
+     * [Conditionals, 1 and 2](#conditionals-1-and-2)
+     * [Past perfect](#past-perfect)
+     * [3rd conditional](#3rd-conditional)
+    * After this, see the [Writing section](#writing)
+      * [Understand clauses](#understand-clauses)
+      * [Embedded questions/Reported speech](#embedded-questionsreported-speech)
+* [Vocab:](#vocab-1)
+   * [Prepositions](#prepositions)
+   * [Phrasal verbs](#phrasal-verbs)
+   * [Collocations](#collocations)
+* [Fluency](#fluency)
+    * [Think aloud](#think-aloud)
+    * [Practice describing images](#practice-describing-images)
+    * [Listen/watch content with dense amounts of language](#listenwatch-content-with-dense-amounts-of-language)
+* [Writing](#writing)
+  * [Google technical writing courses](#google-technical-writing-courses)
+  * [Subordinating clauses/logical connectors](#subordinating-clauseslogical-connectors)
+  * [Advanced techniques](#advanced-techniques)
 
 
 ----
