@@ -401,7 +401,7 @@ you a little grammar.
 
 After that, you can look at this guide for reference anytime:
 
-* [Google style guide](https://developers.google.com/style/lists=)
+* [Google style guide](https://developers.google.com/style/lists)
 
 ### Subordinating clauses/logical connectors
 
