@@ -70,7 +70,7 @@ Look for opportunities to use what you've learned in your daily life.
 * [ship vs sheep](https://www.englishclub.com/pronunciation/minimal-pairs-e-i.htm)
 * [Minimal Pair initial /v/ and /w/](https://www.englishclub.com/pronunciation/minimal-pairs-v-w-initial.php)
 
-To learn how to pronounce words like "opaque," [research the magic "E"](https://www.youtube.com/watch?v=dsW5qQ2B_xE)
+To learn how to pronounce words like "bromite," [research the magic "E"](https://www.youtube.com/watch?v=dsW5qQ2B_xE)
 
 ### Practice mouth posture
 
