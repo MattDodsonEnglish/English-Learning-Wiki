@@ -4,9 +4,9 @@
 Here's an assortment of random tips. Maybe they'll link to other sections, some
 day.
 
- * [The Slav Smile](./slavicsmile.md)
- * [Don't Call that Wizar Gary Potter](./Garrypotter.md)
- * [Key vs Kay](./Keyvalue.md)
+ * [The slav Smile)))](./slavicsmile.md)
+ * [Don't call that wizard Gary Potter](./Garrypotter.md)
+ * [Key vs k values](./Keyvalue.md)
 
 ## Let me Explain Something to You
 

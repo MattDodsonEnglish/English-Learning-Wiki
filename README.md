@@ -16,7 +16,7 @@ classroom or in real life.
 * **[Grammar](./Grammar/grammar.md)**
 * **[Pronunciation](./Pronunciation.md)**
 * **[Miscellaneous Observations](./Miscellaneous/Miscellaneous.md)**
- * [**Growing list of ideas and exercises**](./ladder.md) for grammar, pronunciation, vocabulary, and fluency for all levels
+  * [**Growing list of ideas and exercises**](./Miscellaneous/ladder.md) for grammar, pronunciation, vocabulary, and fluency for all levels
 * **[Useful Tools](./tools.md)**
 
 # Preliminary
