@@ -30,7 +30,7 @@ there's probably good tips for everyone.
   * [3rd conditional](#3rd-conditional)
 * After this, see the [Writing section](#writing)
   * [Understand clauses](#understand-clauses)
-  * [Embedded questions/Reported speechi]#embedded-questionsreported-speech)
+  * [Embedded questions/Reported speech](#embedded-questionsreported-speech)
 * [Vocab:](#vocab-1)
   * [Prepositions](#prepositions)
   * [Phrasal verbs](#phrasal-verbs)
