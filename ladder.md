@@ -428,9 +428,7 @@ Check your answers and see [a lot more examples here](https://staff.washington.e
 
 ### Advanced techniques
 
-* Practice writing with modifiers. See this [slack post](https://ivelum.slack.com/archives/C0YNKL553/p1611239052014200)
-* Think about sub and main clause. In technical writing, put the most important
-info in the main clause.
+* Practice writing with [modifiers](./modifiers.md). 
 * Revise paragraphs. Try to think about what the paragraph's main point is.
 Put that at the beginning. After doing that, look to see if following sentences
 can be removed.
