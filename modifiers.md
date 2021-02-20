@@ -59,7 +59,7 @@ Da Vinci studied everything, happy he didn't have to work a normal job.
 ```
 ## Quiz
 
-Rewrite these setences
+Rewrite these sentences
 
 >The defensive coaches taught risk-taking, ball-hawking, and perpetual movement, which bewildered the opposition and resulted in many bad passes, steals, and easy fastbreak baskets. 
 
