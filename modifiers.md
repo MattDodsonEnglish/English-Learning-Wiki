@@ -43,7 +43,7 @@ Free modifers refer again to the sentence's subject. In my example, all three mo
 * They could be ing present participles, emphasizing activity.
 
 ```txt
-Da Vinci was a curious man, studying everything in site
+Da Vinci was a curious man, studying everything in sight.
 ```
 
 Or past participles, emphasizing a permanent state
