@@ -42,3 +42,5 @@ Generally, sentences with "such a ADJ" are going to have a "SO ADJ" near equival
 Be advised, when the noun is plural, of course don't add the article.
 
 > Parrots are such festive birds.
+
+Here's a [little easy exercise](https://www.curso-ingles.com/en/practice/exercises/so-vs-such).
