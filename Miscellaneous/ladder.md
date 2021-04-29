@@ -2,7 +2,7 @@ Note: slack links will be removed and the content will be given separate pages. 
 
 # Small explanations and exercises for all levels
 
-![Work your way up the ladder](./Images/grammarladder.png)
+![Work your way up the ladder](../Images/grammarladder.png)
 
 Here are ideas for everyone, based on a lot of experience teaching.
 Each section begins with easiest topics and ends with the most advanced topics.
@@ -49,7 +49,8 @@ there's probably good tips for everyone.
 
 Supplementary
 
-For everything above, you could search expressions in Youglish. E.g. take piece of a grammar structure ("had been going") and search on Youglish to
+For everything above, you could search expressions in Youglish.
+E.g. take piece of a grammar structure ("had been going") and search on Youglish to
 see how real people are using it. Don't only listen, but repeat what they say,
 this will enforce pronunciation and creation of natural expression.
 
