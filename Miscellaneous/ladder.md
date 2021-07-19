@@ -369,18 +369,19 @@ As you can see, I could theoretically break these sentences down into YAML-like
 objects.
 
 ```YAML
-clause: "how we learn clauses"
-  main or sub: "sub-clause"
-    type: "relative clause"
-    dependency: "I am writing"
-  subject: "we"
-  verb: "learn"
-  object: "clauses"
 clause: "I am writing a report"
-  main or sub: "main"
+  main or sub: main
   subject: I
   verb: write
     auxiliary: am
+clause: "how we learn clauses"
+  main or sub: sub
+    type: "relative"
+    dependency: I am writing
+  subject: we"
+  verb: "learn"
+  object: "clauses"
+
 ```
 
 I could go on, but I want to keep my reports relatively short.
