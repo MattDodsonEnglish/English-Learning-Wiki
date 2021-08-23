@@ -1,5 +1,3 @@
-Note: slack links will be removed and the content will be given separate pages. If this message is still up after Feb 15, 2021, I messed up.
-
 # Small explanations and exercises for all levels
 
 ![Work your way up the ladder](../Images/grammarladder.png)
@@ -19,18 +17,18 @@ there's probably good tips for everyone.
     * [Irregular plurals](#irregular-plurals)
     * [Continuous vs simple](#continuous-vs-simple)
     * MISSING: conjunctions and relative pronouns
-* Now you're talking:
-  * [Drill the past participles.](#drill-the-past-participles)
+  * Now you're talking:
+    * [Drill the past participles.](#drill-the-past-participles)
     * [Perfect aspect](#perfect-aspect)
     * [Present perfect continuous](#present-perfect-continuous)
     * MISSING: Modals
-* Decent
-  * [Conditionals, 1 and 2](#conditionals-1-and-2)
-  * [Past perfect](#past-perfect)
-  * [3rd conditional](#3rd-conditional)
-* After this, see the [Writing section](#writing)
-  * [Understand clauses](#understand-clauses)
-  * [Embedded questions/Reported speech](#embedded-questionsreported-speech)
+  * Decent
+    * [Conditionals, 1 and 2](#conditionals-1-and-2)
+    * [Past perfect](#past-perfect)
+    * [3rd conditional](#3rd-conditional)
+  * After this, see the [Writing section](#writing)
+    * [Understand clauses](#understand-clauses)
+    * [Embedded questions/Reported speech](#embedded-questionsreported-speech)
 * [Vocab:](#vocab-1)
   * [Prepositions](#prepositions)
   * [Phrasal verbs](#phrasal-verbs)
@@ -93,8 +91,11 @@ investment of time for deep listening and producing natural English rhythms.
 
 #### Articles
 
-Practice inserting articles into a text. [See my post here](
-https://ivelum.slack.com/archives/C0YNKL553/p1611856073120200)
+Practice inserting articles into a text. Unfortunately there aren't so many texts that exist that intentionally leave out all articles.
+
+If you are a programmer, it'd probably be easy to write a program that strips all instances of the following words from a text: `a`, `an`, `the`.
+
+Good luck!
 
 #### Irregular plurals
 
@@ -189,7 +190,7 @@ At this point, you'll need to understand at a conceptual level the idea
 of clauses. However, you don't need to get too technical with it. If
 you want to, check out the [clause section in writing advice](#understand-clauses)
 
-### Conditionals, 1 and 2
+#### Conditionals, 1 and 2
 
 Conditionals describe sequences of events. The first conditional
 describes sequences of real events. The two tenses used in the construction
@@ -210,7 +211,7 @@ moves to the past tense ("would" is the past of "will).
 * [practice the second here.](https://www.perfect-english-grammar.com/conditional-exercises.html)
 * [practice both:](https://www.perfect-english-grammar.com/support-files/all_conditionals_form_mixed_exercise.pdf)
 
-### Past perfect
+#### Past perfect
 
 For describing how one past event relates to another past event.
 
@@ -227,7 +228,7 @@ Exercises:
 * [Past perfect vs past continuous](https://elt.oup.com/student/solutions/upperint/grammar/grammar_02_022e?cc=ar&selLanguage=en)
 * [Past simple vs Past perfect](https://www.perfect-english-grammar.com/past-perfect-exercise-3.html)
 
-### 3rd conditional
+#### 3rd conditional
 
 For describing the consequence of _past hypothetical_. Requires knowledge of past perfect.
 
@@ -242,7 +243,7 @@ Exercises:
 * [3rd conditional](https://www.perfect-english-grammar.com/third-conditional.html)
 * [Could have/would have/should have](https://learningenglish.voanews.com/a/everyday-grammar-could-have-should-have-would-have/3391128.html)
 
-### Embedded questions/Reported speech
+#### Embedded questions/Reported speech
 
 Understanding the clauses is the key to understanding embedded questions, one
 of your most frequent errors.
@@ -430,7 +431,7 @@ Check your answers and see [a lot more examples here](https://staff.washington.e
 
 ### Advanced techniques
 
-* Practice writing with modifiers. See this [slack post](https://ivelum.slack.com/archives/C0YNKL553/p1611239052014200)
+* [Practice writing with modifiers](./modifiers.md).
 * Think about sub and main clause. In technical writing, put the most important
 info in the main clause.
 * Revise paragraphs. Try to think about what the paragraph's main point is.
