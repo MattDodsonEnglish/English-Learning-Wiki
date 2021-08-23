@@ -71,6 +71,15 @@ Look for opportunities to use what you've learned in your daily life.
 
 To learn how to pronounce words like "bromite," [research the magic "E"](https://www.youtube.com/watch?v=dsW5qQ2B_xE)
 
+### Practice speaking and listening to connected speech
+
+Connected speech is how we join words together.
+
+* [Here's a decent overview](https://www.leonardoenglish.com/blog/connected-speech).
+  I agree with the author's recommendations
+* [Here's a handy video about linking words](https://www.coursera.org/lecture/tricky-american-english-pronunciation/linking-connected-speech-practice-SmjN4).
+  That's a bit dry, but it covers a good amount of ground in a short time. It looks like it's connected to a whole mini-course on English learning (I haven't seen     it, so I won't vouch for it). 
+
 ### Practice mouth posture
 
 American accent comes from the fact that all Americans generally position their
