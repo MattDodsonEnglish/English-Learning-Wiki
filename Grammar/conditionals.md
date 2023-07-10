@@ -19,11 +19,11 @@ there's a pretty simple logic to them.
 
 QUIZ: what comes first?
 
-* **If** or **then**?
-* **Is** or **will be**?
-* **rain** or **wet street**?
+* _If_ or _then_?
+* _Is_ or _will be_?
+* _Rain_ or _wet street_?
 
-Of course, the answer is always "the first". And this sequence reveals the structure
+Of course, the answer is always the "first" item. And this sequence reveals the structure
 of the conditional.
 
 > If it **rains**, the street **will be** wet.
@@ -35,8 +35,8 @@ future to the tense of the if-clause.
 ![](../Images/Conditional%201.png)
 -----
 
-Conditionals can be present or past, real or unreal. Except of the first example, I'm going
-to use "have" as the verb for the conditional clause and "be" as the verb for
+Conditionals can be present or past, real or unreal.
+Except for the first example, I use "have" as the verb for the conditional clause and "be" as the verb for
 the main clause.  
 
 ## Real Situations
@@ -49,7 +49,7 @@ When we're speaking about the real, we can use conditional sentences to describe
 
 |moment|same moment|
 |-----|--------------|
-|when temperature increases,|pressure does too|
+|When temperature increases,|pressure does too|
 |If you see a tall guy,|that's probably my cousin Pete.
 
 ### Sequential events
@@ -85,11 +85,11 @@ common! That's because it's also used for unreal present conditionals.
 ## Unreal Situations
 
 As in other languages, English often puts constructions in the past to add
-a layer of irreality.
+a layer of _irreality_.
 
 ### Unreal Present
 
-When the condition is _unreal and present_, we mark that by putting the verbs
+When the condition is _unreal and present_, mark that by putting the verbs
 in both the "if" and "then" clauses in the past tense.
 
 | present (condition)  |   future |
@@ -100,10 +100,10 @@ in both the "if" and "then" clauses in the past tense.
 
 ### Unreal Past
 
-When the conditional is _unreal and past_, we move add the perfect aspect (eg had/would have) to the clauses.
+When the conditional is _unreal and past_, add the perfect aspect to the both clauses.
 
-|past|later past|
+|past (condition)|later past|
 |----|-----------|
-|If my great-great-grandmother **had had** wheels| She **would have been a bicycle|
+|If my great-great-grandmother **had had** wheels| She **would have been** a bicycle|
 
 
