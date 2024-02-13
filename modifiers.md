@@ -11,9 +11,11 @@ Here are three useful kinds of modifiers
 
 ## 1. Resumptive modifiers
 
-Like the "fear" example, resumptives take an object at the end of a sentence and replace it.
-This would be easier in a more flexible language, a language that is dynamically typed.    
-This examples longer, and doubled:
+Like the "fear" example, resumptives take an object at the end of a sentence and replace it:
+
+> This would be easier in a more flexible language, a language that is dynamically typed.    
+
+This example is longer, and doubled:
 
 > The Swiss watchmakers' failure to capitalize on the invention of the digital timepiece was both astonishing and alarming — astonishing in that the Swiss had, since the beginnings of the industrial revolution in Europe, been among the first to capitalize on technical innovations, alarming in that a tremendous industrial potential had been lost to their chief competitors, the watchmakers of Japan.
 
